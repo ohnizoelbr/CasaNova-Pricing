@@ -1,0 +1,14 @@
+﻿id_loja;nome;tipo;cidade;uf;regiao
+1;CasaNova Barra da Tijuca;fisica;Rio de Janeiro;RJ;Sudeste
+2;CasaNova Tijuca;fisica;Rio de Janeiro;RJ;Sudeste
+3;CasaNova Campo Grande;fisica;Rio de Janeiro;RJ;Sudeste
+4;CasaNova Icaraí;fisica;Niterói;rj;Sudeste
+5;CasaNova Paulista;fisica;São Paulo;SP;Sudeste
+6;CasaNova Tatuapé;fisica;São Paulo;SP;Sudeste
+7;CasaNova Campinas;fisica;campinas;SP;Sudeste
+8;CasaNova Savassi;fisica;Belo Horizonte;MG;Sudeste
+9;CasaNova Vitória;fisica;Vitória;ES;Sudeste
+10;CasaNova Curitiba;fisica;Curitiba;PR;Sul
+11;CasaNova Salvador;fisica;Salvador;BA;Nordeste
+12;CasaNova Brasília;fisica;Brasília;DF;Centro-Oeste
+13;CasaNova E-commerce;ecommerce;Rio de Janeiro;RJ;Nacional

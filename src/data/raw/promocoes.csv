@@ -1,0 +1,16 @@
+﻿id_promocao;nome;data_inicio;data_fim;tipo;desconto_pct;categoria_alvo
+1;Black Friday 2024;2024-11-25;2024-12-02;sazonal;22,0;Todas
+2;Natal Decoração 2024;2024-12-05;2024-12-24;sazonal;12,0;Decoração
+3;Liquidação de Verão 2025;2025-01-13;2025-01-26;liquidacao;20,0;Jardim e Churrasco
+4;Dia do Consumidor 2025;2025-03-10;2025-03-16;sazonal;15,0;Todas
+5;Dia das Mães 2025;2025-05-02;2025-05-11;sazonal;15,0;Cama, Mesa e Banho
+6;Semana Casa Arrumada;2025-06-16;2025-06-29;categoria;15,0;Organização e Armazenagem
+7;Dia dos Pais 2025 Elétricas;2025-08-01;2025-08-10;sazonal;18,0;Ferramentas Elétricas
+8;Mega Utilidades;2025-08-18;2025-09-07;queima;42,0;Utilidades Domésticas
+9;Black Friday 2025;2025-11-24;2025-12-01;sazonal;25,0;Todas
+10;Natal Decoração 2025;2025-12-05;2025-12-24;sazonal;12,0;Decoração
+11;Liquidação de Verão 2026;2026-01-12;2026-01-25;liquidacao;20,0;Jardim e Churrasco
+12;Dia do Consumidor 2026;2026-03-09;2026-03-15;sazonal;15,0;Todas
+13;Dia das Mães 2026;2026-05-01;2026-05-10;sazonal;15,0;Cama, Mesa e Banho
+14;Semana do Cliente;2026-07-19;2026-07-13;sazonal;10,0;Todas
+15;Dia dos Pais 2026 Manuais;2026-07-31;2026-08-09;sazonal;18,0;Ferramentas Manuais

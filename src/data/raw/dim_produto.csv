@@ -1,0 +1,607 @@
+﻿id_produto;sku;nome;categoria;subcategoria;marca;custo_unitario;preco_lista;status
+1001;CN-FM-0001;Martelo ForteMax Pro 72;Ferramentas Manuais;Martelo;ForteMax;16,91;33,9;ativo
+1002;CN-FM-0002;Serra Manual ForteMax Max 43;Ferramentas Manuais;Serra Manual;ForteMax;31,24;56,9;ativo
+1003;CN-FM-0003;Trena Verdecor Home 15;Ferramentas Manuais;Trena;Verdecor;18,84;36,9;ativo
+1004;CN-FM-0004;Serra Manual TecnoLar Slim 79;Ferramentas Manuais;Serra Manual;TecnoLar;65,72;120,9;ativo
+1005;CN-FM-0005;Trena FerroForte Premium 96;Ferramentas Manuais;Trena;FerroForte;40,87;87,9;ativo
+1006;CN-FM-0006;Serra Manual FerroForte Premium 30;Ferramentas Manuais;Serra Manual;FerroForte;29,47;52,9;ativo
+1007;CN-FM-0007;Trena ForteMax Compacto 81;Ferramentas Manuais;Trena;ForteMax;43,72;77,9;ativo
+1008;CN-FM-0008;Trena FerroForte Classic 80;Ferramentas Manuais;Trena;FerroForte;47,43;89,9;ativo
+1009;CN-FM-0009;Trena Verdecor Basic 20;Ferramentas Manuais;Trena;Verdecor;21,5;39,9;ativo
+1010;CN-FM-0010;Martelo ForteMax Pro 59;Ferramentas Manuais;Martelo;ForteMax;34,79;66,9;ativo
+1011;CN-FM-0011;Jogo de Chaves LuzVida Pro 30;Ferramentas Manuais;Jogo de Chaves;LuzVida;28,13;48,9;ativo
+1012;CN-FM-0012;Alicate Domus Top 69;Ferramentas Manuais;Alicate;Domus;24,42;46,9;ativo
+1013;CN-FM-0013;Alicate Casalar Slim 51;Ferramentas Manuais;Alicate;Casalar;25,1;44,9;ativo
+1014;CN-FM-0014;Alicate Domus Basic 36;Ferramentas Manuais;Alicate;Domus;47,04;73,9;ativo
+1015;CN-FM-0015;Alicate FerroForte Compacto 72;Ferramentas Manuais;Alicate;FerroForte;17,35;28,9;ativo
+1016;CN-FM-0016;Chave de Fenda ForteMax Pro 18;Ferramentas Manuais;Chave de Fenda;ForteMax;18,02;42,9;ativo
+1017;CN-FM-0017;Serra Manual TecnoLar Compacto 86;Ferramentas Manuais;Serra Manual;TecnoLar;36,39;83,9;ativo
+1018;CN-FM-0018;Chave de Fenda Domus Slim 17;Ferramentas Manuais;Chave de Fenda;Domus;82,51;150,9;ativo
+1019;CN-FM-0019;Chave de Fenda TecnoLar Plus 62;Ferramentas Manuais;Chave de Fenda;TecnoLar;39,1;78,9;ativo
+1020;CN-FM-0020;Alicate TecnoLar Plus 95;Ferramentas Manuais;Alicate;TecnoLar;46,2;84,9;ativo
+1021;CN-FM-0021;Chave de Fenda Verdecor Plus 60;Ferramentas Manuais;Chave de Fenda;Verdecor;181,3;343,9;ativo
+1022;CN-FM-0022;Trena PratoFino Premium 83;Ferramentas Manuais;Trena;PratoFino;21,85;40,9;ativo
+1023;CN-FM-0023;Chave de Fenda FerroForte Classic 74;Ferramentas Manuais;Chave de Fenda;FerroForte;23,57;44,9;ativo
+1024;CN-FM-0024;Jogo de Chaves LuzVida Max 43;Ferramentas Manuais;Jogo de Chaves;LuzVida;17,68;32,9;ativo
+1025;CN-FM-0025;Chave de Fenda Brisa Top 32;Ferramentas Manuais;Chave de Fenda;Brisa;39,76;92,9;ativo
+1026;CN-FM-0026;Chave de Fenda Verdecor Pro 76;Ferramentas Manuais;Chave de Fenda;Verdecor;14,66;27,9;ativo
+1027;CN-FM-0027;Alicate TecnoLar Compacto 43;Ferramentas Manuais;Alicate;TecnoLar;36,0;65,9;ativo
+1028;CN-FM-0028;Martelo Brisa Pro 83;Ferramentas Manuais;Martelo;Brisa;13,89;35,9;ativo
+1029;CN-FM-0029;Serra Manual Arteca Top 79;Ferramentas Manuais;Serra Manual;Arteca;73,34;163,9;ativo
+1030;CN-FM-0030;Jogo de Chaves Casalar Pro 70;Ferramentas Manuais;Jogo de Chaves;Casalar;73,43;136,9;ativo
+1031;CN-FM-0031;Serra Manual PratoFino Pro 73;Ferramentas Manuais;Serra Manual;PratoFino;18,63;34,9;ativo
+1032;CN-FM-0032;Trena Brisa Plus 53;Ferramentas Manuais;Trena;Brisa;23,6;44,9;ativo
+1033;CN-FM-0033;Jogo de Chaves Brisa Plus 66;Ferramentas Manuais;Jogo de Chaves;Brisa;27,59;52,9;ativo
+1034;CN-FM-0034;Martelo Brisa Classic 81;Ferramentas Manuais;Martelo;Brisa;97,31;170,9;descontinuado
+1035;CN-FM-0035;Trena FerroForte Compacto 30;Ferramentas Manuais;Trena;FerroForte;20,38;37,9;ativo
+1036;CN-FM-0036;Serra Manual Domus Plus 68;Ferramentas Manuais;Serra Manual;Domus;22,97;40,9;ativo
+1037;CN-FM-0037;Chave de Fenda LuzVida Top 19;Ferramentas Manuais;Chave de Fenda;LuzVida;16,34;34,9;ativo
+1038;CN-FM-0038;Chave de Fenda Arteca Top 91;Ferramentas Manuais;Chave de Fenda;Arteca;17,46;32,9;ativo
+1039;CN-FM-0039;Alicate FerroForte Plus 25;Ferramentas Manuais;Alicate;FerroForte;27,35;50,9;ativo
+1040;CN-FM-0040;Serra Manual TecnoLar Classic 87;Ferramentas Manuais;Serra Manual;TecnoLar;38,97;73,9;ativo
+1041;CN-FM-0041;Jogo de Chaves LuzVida Top 47;Ferramentas Manuais;Jogo de Chaves;luzvida ;110,8;225,9;ativo
+1042;CN-FM-0042;Martelo Casalar Home 85;Ferramentas Manuais;Martelo;Casalar;42,1;69,9;ativo
+1043;CN-FM-0043;Trena ForteMax Classic 21;Ferramentas Manuais;Trena;ForteMax;32,57;59,9;ativo
+1044;CN-FM-0044;Jogo de Chaves Verdecor Basic 33;Ferramentas Manuais;Jogo de Chaves;Verdecor;27,38;52,9;ativo
+1045;CN-FM-0045;Trena LuzVida Classic 39;Ferramentas Manuais;Trena;LuzVida;12,57;25,9;ativo
+1046;CN-FM-0046;Serra Manual Brisa Classic 39;Ferramentas Manuais;Serra Manual;Brisa;44,77;93,9;ativo
+1047;CN-FM-0047;Chave de Fenda Arteca Pro 35;Ferramentas Manuais;Chave de Fenda;Arteca;26,42;49,9;ativo
+1048;CN-FM-0048;Trena Arteca Slim 18;Ferramentas Manuais;Trena;Arteca;32,92;83,9;ativo
+1049;CN-FM-0049;Serra Manual FerroForte Compacto 62;Ferramentas Manuais;Serra Manual;FerroForte;15,62;35,9;ativo
+1050;CN-FM-0050;Martelo LuzVida Max 64;Ferramentas Manuais;Martelo;LuzVida;15,2;27,9;ativo
+1051;CN-FM-0051;Alicate Verdecor Top 81;Ferramentas Manuais;Alicate;Verdecor;37,88;72,9;ativo
+1052;CN-FM-0052;Jogo de Chaves FerroForte Compacto 68;Ferramentas Manuais;Jogo de Chaves;FerroForte;12,22;21,9;ativo
+1053;CN-FM-0053;Serra Manual TecnoLar Slim 34;Ferramentas Manuais;Serra Manual;TecnoLar;36,29;86,9;ativo
+1054;CN-FM-0054;Jogo de Chaves FerroForte Classic 44;Ferramentas Manuais;Jogo de Chaves;FerroForte;57,49;99,9;ativo
+1055;CN-FM-0055;Alicate ForteMax Slim 97;Ferramentas Manuais;Alicate;ForteMax;52,37;97,9;ativo
+1056;CN-FM-0056;Chave de Fenda Arteca Compacto 62;Ferramentas Manuais;Chave de Fenda;Arteca;27,91;46,9;ativo
+1057;CN-FM-0057;Serra Manual Arteca Premium 49;Ferramentas Manuais;Serra Manual;arteca ;14,89;25,9;ativo
+1058;CN-FM-0058;Trena FerroForte Slim 35;Ferramentas Manuais;Trena;FerroForte;7,89;15,9;ativo
+1059;CN-FM-0059;Martelo Domus Slim 89;Ferramentas Manuais;Martelo;Domus;34,28;66,9;ativo
+1060;CN-FM-0060;Jogo de Chaves ForteMax Basic 68;Ferramentas Manuais;Jogo de Chaves;ForteMax;51,63;117,9;ativo
+1061;CN-FM-0061;Serra Manual Domus Basic 85;Ferramentas Manuais;Serra Manual;Domus;14,49;25,9;ativo
+1062;CN-FM-0062;Martelo ForteMax Compacto 13;Ferramentas Manuais;Martelo;ForteMax;60,66;121,9;ativo
+1063;CN-FM-0063;Martelo Arteca Pro 27;Ferramentas Manuais;Martelo;Arteca;22,09;48,9;ativo
+1064;CN-FM-0064;Serra Manual Domus Pro 13;Ferramentas Manuais;Serra Manual;Domus;39,94;69,9;ativo
+1065;CN-FM-0065;Alicate Casalar Max 50;Ferramentas Manuais;Alicate;Casalar;22,91;50,9;ativo
+1066;CN-FM-0066;Alicate FerroForte Compacto 61;Ferramentas Manuais;Alicate;FERROFORTE;69,7;126,9;ativo
+1067;CN-FM-0067;Martelo FerroForte Top 52;Ferramentas Manuais;Martelo;FerroForte;29,17;56,9;ativo
+1068;CN-FM-0068;Martelo TecnoLar Compacto 66;Ferramentas Manuais;Martelo;TecnoLar;19,0;36,9;ativo
+1069;CN-FM-0069;Jogo de Chaves PratoFino Basic 47;Ferramentas Manuais;Jogo de Chaves;PratoFino;16,14;29,9;ativo
+1070;CN-FM-0070;Alicate PratoFino Max 68;Ferramentas Manuais;Alicate;PratoFino;24,72;45,9;ativo
+1071;CN-FM-0071;Chave de Fenda Verdecor Top 55;Ferramentas Manuais;Chave de Fenda;Verdecor;31,68;68,9;ativo
+1072;CN-FM-0072;Jogo de Chaves PratoFino Basic 37;Ferramentas Manuais;Jogo de Chaves;PratoFino;28,49;50,9;ativo
+1073;CN-FM-0073;Serra Manual Casalar Compacto 25;Ferramentas Manuais;Serra Manual;Casalar;26,58;52,9;descontinuado
+1074;CN-FM-0074;Alicate Arteca Classic 23;Ferramentas Manuais;Alicate;Arteca;12,87;26,9;ativo
+1075;CN-FM-0075;Trena Brisa Compacto 37;Ferramentas Manuais;Trena;Brisa;134,84;255,9;ativo
+1076;CN-FE-0076;Soprador Domus Classic 56;Ferramentas Elétricas;Soprador;Domus;219,63;439,9;ativo
+1077;CN-FE-0077;Soprador Brisa Home 98;Ferramentas Elétricas;Soprador;Brisa;129,22;187,9;ativo
+1078;CN-FE-0078;Parafusadeira Casalar Compacto 51;Ferramentas Elétricas;Parafusadeira;Casalar;250,26;485,9;ativo
+1079;CN-FE-0079;Soprador Casalar Plus 53;Ferramentas Elétricas;Soprador;Casalar;90,39;144,9;ativo
+1080;CN-FE-0080;Parafusadeira LuzVida Max 67;Ferramentas Elétricas;Parafusadeira;LuzVida;140,87;218,9;ativo
+1081;CN-FE-0081;Lixadeira TecnoLar Top 85;Ferramentas Elétricas;Lixadeira;TecnoLar;353,43;561,9;ativo
+1082;CN-FE-0082;Esmerilhadeira PratoFino Plus 85;Ferramentas Elétricas;Esmerilhadeira;PratoFino;192,35;280,9;ativo
+1083;CN-FE-0083;Soprador Brisa Pro 40;Ferramentas Elétricas;Soprador;Brisa;238,48;347,9;ativo
+1084;CN-FE-0084;Lixadeira Verdecor Max 10;;Lixadeira;Verdecor;258,88;453,9;ativo
+1085;CN-FE-0085;Lixadeira Brisa Top 77;Ferramentas Elétricas;Lixadeira;Brisa;515,58;721,9;ativo
+1086;CN-FE-0086;Serra Tico-Tico ForteMax Max 75;Ferramentas Elétricas;Serra Tico-Tico;ForteMax;121,55;194,9;ativo
+1087;CN-FE-0087;Esmerilhadeira Brisa Home 75;Ferramentas Elétricas;Esmerilhadeira;Brisa;111,07;173,9;ativo
+1088;CN-FE-0088;Soprador Verdecor Premium 97;Ferramentas Elétricas;Soprador;Verdecor;376,59;583,9;ativo
+1089;CN-FE-0089;Parafusadeira PratoFino Compacto 83;Ferramentas Elétricas;Parafusadeira;PratoFino;157,84;249,9;ativo
+1090;CN-FE-0090;Esmerilhadeira FerroForte Slim 78;Ferramentas Elétricas;Esmerilhadeira;FerroForte;266,33;373,9;ativo
+1091;CN-FE-0091;Esmerilhadeira Casalar Basic 86;Ferramentas Elétricas;Esmerilhadeira;Casalar;160,0;266,9;ativo
+1092;CN-FE-0092;Serra Tico-Tico Casalar Slim 69;Ferramentas Elétricas;Serra Tico-Tico;Casalar;167,93;313,9;ativo
+1093;CN-FE-0093;Lixadeira Arteca Compacto 45;Ferramentas Elétricas;Lixadeira;Arteca;181,35;246,9;ativo
+1094;CN-FE-0094;Lixadeira Casalar Compacto 81;Ferramentas Elétricas;Lixadeira;Casalar;316,8;442,9;ativo
+1095;CN-FE-0095;Serra Tico-Tico FerroForte Pro 44;Ferramentas Elétricas;Serra Tico-Tico;FerroForte;334,53;460,9;ativo
+1096;CN-FE-0096;Furadeira TecnoLar Max 11;Ferramentas Elétricas;Furadeira;TecnoLar;119,26;189,9;ativo
+1097;CN-FE-0097;Esmerilhadeira Verdecor Max 58;Ferramentas Elétricas;Esmerilhadeira;Verdecor;83,8;127,9;ativo
+1098;CN-FE-0098;Serra Tico-Tico TecnoLar Top 76;Ferramentas Elétricas;Serra Tico-Tico;tecnolar ;308,84;458,9;ativo
+1099;CN-FE-0099;Soprador LuzVida Premium 87;Ferramentas Elétricas;Soprador;LuzVida;381,87;596,9;ativo
+1100;CN-FE-0100;Serra Tico-Tico ForteMax Top 98;Ferramentas Elétricas;Serra Tico-Tico;ForteMax;377,54;598,9;ativo
+1101;CN-FE-0101;Parafusadeira PratoFino Premium 95;Ferramentas Elétricas;Parafusadeira;PratoFino;568,28;844,9;ativo
+1102;CN-FE-0102;Soprador Brisa Pro 31;Ferramentas Elétricas;Soprador;Brisa;140,83;206,9;ativo
+1103;CN-FE-0103;Lixadeira TecnoLar Slim 44;Ferramentas Elétricas;Lixadeira;TecnoLar;199,65;287,9;ativo
+1104;CN-FE-0104;Soprador TecnoLar Plus 10;Ferramentas Elétricas;Soprador;TecnoLar;202,49;321,9;descontinuado
+1105;CN-FE-0105;Furadeira PratoFino Compacto 48;Ferramentas Elétricas;Furadeira;pratofino ;111,5;155,9;ativo
+1106;CN-FE-0106;Parafusadeira TecnoLar Home 70;Ferramentas Elétricas;Parafusadeira;TecnoLar;58,86;82,9;ativo
+1107;CN-FE-0107;Esmerilhadeira Casalar Plus 23;Ferramentas Elétricas;Esmerilhadeira;Casalar;118,14;185,9;ativo
+1108;CN-FE-0108;Furadeira Casalar Plus 19;Ferramentas Elétricas;Furadeira;Casalar;368,8;591,9;ativo
+1109;CN-FE-0109;Parafusadeira PratoFino Basic 85;Ferramentas Elétricas;Parafusadeira;PratoFino;75,77;116,9;ativo
+1110;CN-FE-0110;Soprador Arteca Max 50;Ferramentas Elétricas;Soprador;Arteca;232,86;349,9;ativo
+1111;CN-FE-0111;Lixadeira Arteca Plus 63;Ferramentas Elétricas;Lixadeira;Arteca;386,3;613,9;ativo
+1112;CN-FE-0112;Lixadeira Casalar Premium 11;Ferramentas Elétricas;Lixadeira;Casalar;283,74;389,9;ativo
+1113;CN-FE-0113;Parafusadeira ForteMax Plus 62;Ferramentas Elétricas;Parafusadeira;ForteMax;522,76;689,9;ativo
+1114;CN-FE-0114;Furadeira FerroForte Basic 10;Ferramentas Elétricas;Furadeira;FerroForte;239,8;339,9;ativo
+1115;CN-FE-0115;Esmerilhadeira FerroForte Compacto 57;Ferramentas Elétricas;Esmerilhadeira;FerroForte;268,5;411,9;ativo
+1116;CN-FE-0116;Esmerilhadeira PratoFino Top 84;Ferramentas Elétricas;Esmerilhadeira;PratoFino;314,3;492,9;ativo
+1117;CN-FE-0117;Soprador Arteca Plus 59;Ferramentas Elétricas;Soprador;Arteca;236,73;344,9;ativo
+1118;CN-FE-0118;Lixadeira PratoFino Plus 47;Ferramentas Elétricas;Lixadeira;PratoFino;349,48;303,9;ativo
+1119;CN-FE-0119;Esmerilhadeira PratoFino Classic 89;Ferramentas Elétricas;Esmerilhadeira;PratoFino;170,92;251,9;ativo
+1120;CN-FE-0120;Esmerilhadeira Brisa Top 86;Ferramentas Elétricas;Esmerilhadeira;Brisa;173,27;288,9;ativo
+1121;CN-FE-0121;Soprador ForteMax Compacto 56;Ferramentas Elétricas;Soprador;ForteMax;352,93;306,9;ativo
+1122;CN-FE-0122;Soprador PratoFino Slim 87;Ferramentas Elétricas;Soprador;PratoFino;117,56;149,9;ativo
+1123;CN-FE-0123;Esmerilhadeira ForteMax Top 43;Ferramentas Elétricas;Esmerilhadeira;ForteMax;189,05;323,9;ativo
+1124;CN-FE-0124;Serra Tico-Tico TecnoLar Premium 46;Ferramentas Elétricas;Serra Tico-Tico;TecnoLar;1557,59;2503,9;ativo
+1125;CN-FE-0125;Furadeira FerroForte Classic 21;Ferramentas Elétricas;Furadeira;FerroForte;235,63;366,9;ativo
+1126;CN-FE-0126;Furadeira Brisa Compacto 77;Ferramentas Elétricas;Furadeira;Brisa;128,3;179,9;ativo
+1127;CN-FE-0127;Soprador FerroForte Compacto 33;Ferramentas Elétricas;Soprador;FerroForte;181,16;227,9;ativo
+1128;CN-FE-0128;Parafusadeira Domus Basic 32;Ferramentas Elétricas;Parafusadeira;Domus;145,94;126,9;ativo
+1129;CN-FE-0129;Lixadeira Brisa Premium 94;Ferramentas Elétricas;Lixadeira;Brisa;408,37;729,9;ativo
+1130;CN-FE-0130;Parafusadeira PratoFino Classic 64;Ferramentas Elétricas;Parafusadeira;PratoFino;51,55;90,9;ativo
+1131;CN-FE-0131;Esmerilhadeira FerroForte Max 75;Ferramentas Elétricas;Esmerilhadeira;FerroForte;434,07;636,9;ativo
+1132;CN-FE-0132;Furadeira ForteMax Slim 93;Ferramentas Elétricas;Furadeira;ForteMax;211,69;355,9;ativo
+1133;CN-FE-0133;Esmerilhadeira LuzVida Slim 46;Ferramentas Elétricas;Esmerilhadeira;LuzVida;121,25;150,9;ativo
+1134;CN-FE-0134;Furadeira Arteca Classic 32;Ferramentas Elétricas;Furadeira;Arteca;547,51;863,9;ativo
+1135;CN-FE-0135;Furadeira Arteca Basic 53;Ferramentas Elétricas;Furadeira;Arteca;164,14;249,9;ativo
+1136;CN-FE-0136;Esmerilhadeira FerroForte Pro 52;Ferramentas Elétricas;Esmerilhadeira;FerroForte;232,11;364,9;ativo
+1137;CN-FE-0137;Soprador LuzVida Premium 20;Ferramentas Elétricas;Soprador;LuzVida;219,4;355,9;ativo
+1138;CN-FE-0138;Furadeira Verdecor Slim 26;Ferramentas Elétricas;Furadeira;Verdecor;275,12;514,9;ativo
+1139;CN-FE-0139;Esmerilhadeira Verdecor Slim 40;Ferramentas Elétricas;Esmerilhadeira;Verdecor;303,27;477,9;ativo
+1140;CN-FE-0140;Serra Tico-Tico Domus Home 28;Ferramentas Elétricas;Serra Tico-Tico;Domus;231,0;361,9;ativo
+1141;CN-FE-0141;Lixadeira Casalar Home 15;Ferramentas Elétricas;Lixadeira;Casalar;101,98;154,9;ativo
+1142;CN-FE-0142;Lixadeira Domus Slim 38;Ferramentas Elétricas;Lixadeira;Domus;264,39;418,9;ativo
+1143;CN-FE-0143;Serra Tico-Tico PratoFino Max 40;Ferramentas Elétricas;Serra Tico-Tico;PratoFino;301,83;474,9;ativo
+1144;CN-FE-0144;Serra Tico-Tico Casalar Classic 76;Ferramentas Elétricas;Serra Tico-Tico;Casalar;99,59;155,9;ativo
+1145;CN-FE-0145;Parafusadeira TecnoLar Classic 75;Ferramentas Elétricas;Parafusadeira;TecnoLar;561,81;955,9;ativo
+1146;CN-FE-0146;Serra Tico-Tico PratoFino Plus 67;Ferramentas Elétricas;Serra Tico-Tico;PratoFino;250,14;402,9;ativo
+1147;CN-FE-0147;Parafusadeira FerroForte Plus 68;Ferramentas Elétricas;Parafusadeira;FerroForte;283,64;451,9;ativo
+1148;CN-FE-0148;Lixadeira FerroForte Classic 31;Ferramentas Elétricas;Lixadeira;FerroForte;171,26;237,9;ativo
+1149;CN-FE-0149;Lixadeira FerroForte Top 91;Ferramentas Elétricas;Lixadeira;FerroForte;335,43;522,9;ativo
+1150;CN-FE-0150;Lixadeira Brisa Premium 65;Ferramentas Elétricas;Lixadeira;Brisa;62,52;96,9;ativo
+1151;CN-UD-0151;Pote Hermético Domus Classic 87;Utilidades Domésticas;Pote Hermético;Domus;22,98;38,9;ativo
+1152;CN-UD-0152;Escorredor Arteca Classic 53;Utilidades Domésticas;Escorredor;Arteca;11,19;20,9;ativo
+1153;CN-UD-0153;Pote Hermético Brisa Top 97;Utilidades Domésticas;Pote Hermético;Brisa;23,66;38,9;ativo
+1154;CN-UD-0154;Jogo de Panelas Verdecor Slim 67;Utilidades Domésticas;Jogo de Panelas;Verdecor;9,06;17,9;ativo
+1155;CN-UD-0155;Pote Hermético Verdecor Basic 86;Utilidades Domésticas;Pote Hermético;Verdecor;72,33;62,9;ativo
+1156;CN-UD-0156;Pote Hermético ForteMax Slim 78;Utilidades Domésticas;Pote Hermético;ForteMax;37,15;63,9;ativo
+1157;CN-UD-0157;Garrafa Térmica FerroForte Compacto 65;Utilidades Domésticas;Garrafa Térmica;FerroForte;20,2;37,9;ativo
+1158;CN-UD-0158;Escorredor FerroForte Compacto 88;Utilidades Domésticas;Escorredor;FerroForte;22,38;38,9;ativo
+1159;CN-UD-0159;Balde FerroForte Basic 54;Utilidades Domésticas;Balde;FerroForte;15,7;22,9;ativo
+1160;CN-UD-0160;Jogo de Panelas Brisa Slim 74;Utilidades Domésticas;Jogo de Panelas;Brisa;17,44;33,9;ativo
+1161;CN-UD-0161;Garrafa Térmica Verdecor Classic 41;Utilidades Domésticas;Garrafa Térmica;Verdecor;24,32;43,9;ativo
+1162;CN-UD-0162;Escorredor Verdecor Classic 81;Utilidades Domésticas;Escorredor;Verdecor;27,44;52,9;ativo
+1163;CN-UD-0163;Balde Arteca Premium 57;Utilidades Domésticas;Balde;Arteca;31,78;54,9;descontinuado
+1164;CN-UD-0164;Jogo de Panelas Verdecor Premium 68;Utilidades Domésticas;Jogo de Panelas;Verdecor;16,03;27,9;ativo
+1165;CN-UD-0165;Jogo de Panelas Arteca Compacto 82;Utilidades Domésticas;Jogo de Panelas;Arteca;11,53;19,9;ativo
+1166;CN-UD-0166;Balde LuzVida Max 76;Utilidades Domésticas;Balde;LuzVida;18,37;32,9;ativo
+1167;CN-UD-0167;Balde LuzVida Classic 17;Utilidades Domésticas;Balde;LuzVida;18,17;33,9;ativo
+1168;CN-UD-0168;Jogo de Panelas TecnoLar Top 68;Utilidades Domésticas;Jogo de Panelas;TecnoLar;29,18;52,9;ativo
+1169;CN-UD-0169;Escorredor Brisa Slim 29;Utilidades Domésticas;Escorredor;Brisa;5,3;8,9;ativo
+1170;CN-UD-0170;Jogo de Panelas PratoFino Premium 73;Utilidades Domésticas;Jogo de Panelas;PratoFino;11,72;24,9;ativo
+1171;CN-UD-0171;Pote Hermético Verdecor Basic 77;Utilidades Domésticas;Pote Hermético;Verdecor;17,01;27,9;ativo
+1172;CN-UD-0172;Vassoura LuzVida Compacto 60;Utilidades Domésticas;Vassoura;LuzVida;22,21;44,9;descontinuado
+1173;CN-UD-0173;Jogo de Panelas LuzVida Classic 25;Utilidades Domésticas;Jogo de Panelas;LuzVida;15,4;27,9;ativo
+1174;CN-UD-0174;Escorredor Brisa Compacto 62;Utilidades Domésticas;Escorredor;Brisa;26,24;50,9;ativo
+1175;CN-UD-0175;Escorredor Casalar Max 25;Utilidades Domésticas;Escorredor;Casalar;9,31;14,9;ativo
+1176;CN-UD-0176;Pote Hermético TecnoLar Premium 33;Utilidades Domésticas;Pote Hermético;TecnoLar;11,62;29,9;ativo
+1177;CN-UD-0177;Jogo de Panelas Brisa Pro 20;Utilidades Domésticas;Jogo de Panelas;BRISA;4,79;6,9;ativo
+1178;CN-UD-0178;Escorredor ForteMax Plus 98;;Escorredor;ForteMax;34,37;60,9;ativo
+1179;CN-UD-0179;Pote Hermético Brisa Top 25;Utilidades Domésticas;Pote Hermético;Brisa;23,86;43,9;ativo
+1180;CN-UD-0180;Garrafa Térmica Brisa Classic 62;Utilidades Domésticas;Garrafa Térmica;Brisa;18,83;33,9;ativo
+1181;CN-UD-0181;Escorredor FerroForte Max 41;Utilidades Domésticas;Escorredor;FerroForte;34,15;54,9;ativo
+1182;CN-UD-0182;Pote Hermético Brisa Classic 39;Utilidades Domésticas;Pote Hermético;Brisa;7,3;13,9;ativo
+1183;CN-UD-0183;Garrafa Térmica Domus Top 40;Utilidades Domésticas;Garrafa Térmica;Domus;12,54;20,9;ativo
+1184;CN-UD-0184;Balde ForteMax Classic 60;Utilidades Domésticas;Balde;ForteMax;18,93;42,9;ativo
+1185;CN-UD-0185;Escorredor Brisa Top 14;Utilidades Domésticas;Escorredor;Brisa;24,96;45,9;ativo
+1186;CN-UD-0186;Escorredor PratoFino Top 70;Utilidades Domésticas;Escorredor;PratoFino;18,25;30,9;ativo
+1187;CN-UD-0187;Jogo de Panelas Arteca Compacto 10;Utilidades Domésticas;Jogo de Panelas;Arteca;6,58;12,9;ativo
+1188;CN-UD-0188;Escorredor TecnoLar Slim 24;Utilidades Domésticas;Escorredor;TecnoLar;27,23;47,9;ativo
+1189;CN-UD-0189;Garrafa Térmica Brisa Home 26;Utilidades Domésticas;Garrafa Térmica;Brisa;8,2;14,9;ativo
+1190;CN-UD-0190;Jogo de Panelas FerroForte Basic 60;Utilidades Domésticas;Jogo de Panelas;FerroForte;24,51;55,9;ativo
+1191;CN-UD-0191;Escorredor TecnoLar Home 80;Utilidades Domésticas;Escorredor;TecnoLar;15,16;24,9;ativo
+1192;CN-UD-0192;Vassoura Arteca Max 51;Utilidades Domésticas;Vassoura;Arteca;16,3;28,9;ativo
+1193;CN-UD-0193;Jogo de Panelas TecnoLar Max 51;Utilidades Domésticas;Jogo de Panelas;TecnoLar;8,25;14,9;ativo
+1194;CN-UD-0194;Balde FerroForte Max 94;Utilidades Domésticas;Balde;FerroForte;7,06;12,9;ativo
+1195;CN-UD-0195;Garrafa Térmica Casalar Home 66;Utilidades Domésticas;Garrafa Térmica;Casalar;25,05;50,9;ativo
+1196;CN-UD-0196;Garrafa Térmica PratoFino Slim 13;Utilidades Domésticas;Garrafa Térmica;PratoFino;10,76;22,9;ativo
+1197;CN-UD-0197;Pote Hermético Casalar Top 20;Utilidades Domésticas;Pote Hermético;Casalar;23,88;38,9;ativo
+1198;CN-UD-0198;Vassoura PratoFino Classic 45;Utilidades Domésticas;Vassoura;PratoFino;14,0;24,9;ativo
+1199;CN-UD-0199;Garrafa Térmica TecnoLar Plus 95;Utilidades Domésticas;Garrafa Térmica;TecnoLar;14,91;22,9;ativo
+1200;CN-UD-0200;Balde Arteca Premium 93;Utilidades Domésticas;Balde;Arteca;27,3;59,9;ativo
+1201;CN-UD-0201;Pote Hermético PratoFino Compacto 72;Utilidades Domésticas;Pote Hermético;PratoFino;20,86;39,9;ativo
+1202;CN-UD-0202;Garrafa Térmica TecnoLar Classic 16;Utilidades Domésticas;Garrafa Térmica;TecnoLar;18,9;35,9;ativo
+1203;CN-UD-0203;Escorredor Domus Home 28;Utilidades Domésticas;Escorredor;Domus;13,75;20,9;ativo
+1204;CN-UD-0204;Balde Brisa Max 14;Utilidades Domésticas;Balde;Brisa;8,91;16,9;ativo
+1205;CN-UD-0205;Jogo de Panelas PratoFino Slim 65;Utilidades Domésticas;Jogo de Panelas;PratoFino;20,49;37,9;ativo
+1206;CN-UD-0206;Balde Arteca Plus 18;Utilidades Domésticas;Balde;Arteca;33,88;63,9;ativo
+1207;CN-UD-0207;Escorredor TecnoLar Compacto 26;Utilidades Domésticas;Escorredor;TecnoLar;16,17;27,9;ativo
+1208;CN-UD-0208;Jogo de Panelas Verdecor Top 25;Utilidades Domésticas;Jogo de Panelas;Verdecor;28,58;52,9;ativo
+1209;CN-UD-0209;Balde Verdecor Top 48;Utilidades Domésticas;Balde;Verdecor;20,3;35,9;ativo
+1210;CN-UD-0210;Escorredor Verdecor Basic 30;Utilidades Domésticas;Escorredor;Verdecor;21,59;34,9;ativo
+1211;CN-UD-0211;Jogo de Panelas Verdecor Classic 15;Utilidades Domésticas;Jogo de Panelas;Verdecor;15,47;26,9;ativo
+1212;CN-UD-0212;Escorredor Verdecor Classic 66;Utilidades Domésticas;Escorredor;Verdecor;17,03;34,9;ativo
+1213;CN-UD-0213;Escorredor Brisa Slim 82;Utilidades Domésticas;Escorredor;Brisa;11,77;20,9;ativo
+1214;CN-UD-0214;Balde LuzVida Premium 27;Utilidades Domésticas;Balde;LuzVida;7,45;13,9;ativo
+1215;CN-UD-0215;Vassoura LuzVida Home 23;Utilidades Domésticas;Vassoura;LuzVida;95,34;82,9;ativo
+1216;CN-UD-0216;Garrafa Térmica Arteca Home 25;Utilidades Domésticas;Garrafa Térmica;Arteca;21,27;38,9;ativo
+1217;CN-UD-0217;Pote Hermético LuzVida Classic 58;Utilidades Domésticas;Pote Hermético;LuzVida;13,25;23,9;ativo
+1218;CN-UD-0218;Garrafa Térmica ForteMax Basic 49;Utilidades Domésticas;Garrafa Térmica;ForteMax;10,14;18,9;ativo
+1219;CN-UD-0219;Garrafa Térmica FerroForte Classic 31;Utilidades Domésticas;Garrafa Térmica;FerroForte;16,22;28,9;ativo
+1220;CN-UD-0220;Pote Hermético FerroForte Home 42;Utilidades Domésticas;Pote Hermético;FerroForte;23,71;43,9;ativo
+1221;CN-UD-0221;Pote Hermético Verdecor Slim 98;Utilidades Domésticas;Pote Hermético;Verdecor;15,41;24,9;ativo
+1222;CN-UD-0222;Balde ForteMax Classic 11;Utilidades Domésticas;Balde;ForteMax;30,93;57,9;ativo
+1223;CN-UD-0223;Pote Hermético PratoFino Top 19;Utilidades Domésticas;Pote Hermético;PratoFino;29,46;47,9;ativo
+1224;CN-UD-0224;Vassoura Brisa Plus 37;Utilidades Domésticas;Vassoura;Brisa;38,49;54,9;ativo
+1225;CN-UD-0225;Balde Brisa Slim 36;Utilidades Domésticas;Balde;BRISA;7,4;12,9;ativo
+1226;CN-OA-0226;Gaveteiro Brisa Pro 70;Organização e Armazenagem;Gaveteiro;Brisa;28,16;39,9;ativo
+1227;CN-OA-0227;Armário Multiuso LuzVida Basic 70;Organização e Armazenagem;Armário Multiuso;LuzVida;27,79;49,9;ativo
+1228;CN-OA-0228;Cabideiro Brisa Top 48;Organização e Armazenagem;Cabideiro;Brisa;36,66;67,9;ativo
+1229;CN-OA-0229;Gaveteiro TecnoLar Slim 10;Organização e Armazenagem;Gaveteiro;TecnoLar;16,34;27,9;ativo
+1230;CN-OA-0230;Prateleira LuzVida Classic 17;Organização e Armazenagem;Prateleira;LuzVida;31,32;57,9;ativo
+1231;CN-OA-0231;Prateleira FerroForte Compacto 52;Organização e Armazenagem;Prateleira;FerroForte;20,66;31,9;ativo
+1232;CN-OA-0232;Caixa Organizadora Brisa Basic 92;Organização e Armazenagem;Caixa Organizadora;Brisa;42,4;76,9;ativo
+1233;CN-OA-0233;Armário Multiuso Casalar Plus 26;Organização e Armazenagem;Armário Multiuso;Casalar;63,63;104,9;ativo
+1234;CN-OA-0234;Prateleira Brisa Slim 34;Organização e Armazenagem;Prateleira;Brisa;27,91;50,9;ativo
+1235;CN-OA-0235;Gaveteiro Verdecor Slim 45;Organização e Armazenagem;Gaveteiro;Verdecor;145,18;228,9;ativo
+1236;CN-OA-0236;Cabideiro ForteMax Slim 85;Organização e Armazenagem;Cabideiro;ForteMax;60,86;109,9;ativo
+1237;CN-OA-0237;Armário Multiuso Arteca Max 77;Organização e Armazenagem;Armário Multiuso;ARTECA;18,37;30,9;ativo
+1238;CN-OA-0238;Caixa Organizadora ForteMax Plus 56;Organização e Armazenagem;Caixa Organizadora;ForteMax;55,02;96,9;ativo
+1239;CN-OA-0239;Gaveteiro LuzVida Premium 54;Organização e Armazenagem;Gaveteiro;LuzVida;46,76;76,9;ativo
+1240;CN-OA-0240;Sapateira ForteMax Classic 75;Organização e Armazenagem;Sapateira;ForteMax;26,25;50,9;ativo
+1241;CN-OA-0241;Cabideiro ForteMax Home 91;Organização e Armazenagem;Cabideiro;ForteMax;14,02;26,9;ativo
+1242;CN-OA-0242;Gaveteiro Verdecor Max 46;Organização e Armazenagem;Gaveteiro;Verdecor;61,35;104,9;ativo
+1243;CN-OA-0243;Gaveteiro TecnoLar Classic 36;Organização e Armazenagem;Gaveteiro;TecnoLar;15,2;27,9;ativo
+1244;CN-OA-0244;Prateleira Domus Compacto 29;Organização e Armazenagem;Prateleira;Domus;23,52;40,9;ativo
+1245;CN-OA-0245;Cabideiro Casalar Classic 12;Organização e Armazenagem;Cabideiro;Casalar;46,57;80,9;ativo
+1246;CN-OA-0246;Cabideiro ForteMax Basic 76;Organização e Armazenagem;Cabideiro;ForteMax;31,29;43,9;ativo
+1247;CN-OA-0247;Cabideiro ForteMax Compacto 12;Organização e Armazenagem;Cabideiro;ForteMax;110,85;174,9;ativo
+1248;CN-OA-0248;Cabideiro ForteMax Plus 50;Organização e Armazenagem;Cabideiro;ForteMax;38,06;94,9;ativo
+1249;CN-OA-0249;Armário Multiuso Arteca Plus 22;Organização e Armazenagem;Armário Multiuso;Arteca;10,84;19,9;ativo
+1250;CN-OA-0250;Sapateira TecnoLar Plus 18;Organização e Armazenagem;Sapateira;TecnoLar;45,78;75,9;ativo
+1251;CN-OA-0251;Caixa Organizadora Casalar Classic 61;Organização e Armazenagem;Caixa Organizadora;Casalar;35,5;74,9;ativo
+1252;CN-OA-0252;Prateleira Domus Compacto 49;Organização e Armazenagem;Prateleira;Domus;30,37;49,9;ativo
+1253;CN-OA-0253;Cabideiro ForteMax Classic 31;Organização e Armazenagem;Cabideiro;ForteMax;35,75;61,9;ativo
+1254;CN-OA-0254;Gaveteiro Arteca Basic 37;Organização e Armazenagem;Gaveteiro;Arteca;25,34;46,9;ativo
+1255;CN-OA-0255;Caixa Organizadora LuzVida Premium 59;Organização e Armazenagem;Caixa Organizadora;LuzVida;25,48;48,9;ativo
+1256;CN-OA-0256;Armário Multiuso FerroForte Max 70;Organização e Armazenagem;Armário Multiuso;FerroForte;18,78;32,9;ativo
+1257;CN-OA-0257;Cabideiro Casalar Home 76;Organização e Armazenagem;Cabideiro;CASALAR;51,52;85,9;ativo
+1258;CN-OA-0258;Gaveteiro Verdecor Top 53;Organização e Armazenagem;Gaveteiro;VERDECOR;59,18;107,9;ativo
+1259;CN-OA-0259;Caixa Organizadora Casalar Max 92;Organização e Armazenagem;Caixa Organizadora;Casalar;35,47;54,9;ativo
+1260;CN-OA-0260;Gaveteiro Verdecor Plus 18;Organização e Armazenagem;Gaveteiro;Verdecor;39,31;63,9;ativo
+1261;CN-OA-0261;Gaveteiro ForteMax Top 23;Organização e Armazenagem;Gaveteiro;ForteMax;28,73;62,9;ativo
+1262;CN-OA-0262;Prateleira TecnoLar Basic 77;Organização e Armazenagem;Prateleira;TecnoLar;29,03;63,9;ativo
+1263;CN-OA-0263;Caixa Organizadora ForteMax Home 29;Organização e Armazenagem;Caixa Organizadora;ForteMax;54,66;85,9;ativo
+1264;CN-OA-0264;Gaveteiro PratoFino Plus 56;Organização e Armazenagem;Gaveteiro;PratoFino;47,13;88,9;ativo
+1265;CN-OA-0265;Prateleira LuzVida Basic 36;Organização e Armazenagem;Prateleira;LuzVida;46,67;77,9;ativo
+1266;CN-OA-0266;Armário Multiuso Brisa Pro 38;Organização e Armazenagem;Armário Multiuso;Brisa;49,13;87,9;ativo
+1267;CN-OA-0267;Gaveteiro Domus Home 39;Organização e Armazenagem;Gaveteiro;Domus;29,71;48,9;ativo
+1268;CN-OA-0268;Gaveteiro Arteca Plus 77;Organização e Armazenagem;Gaveteiro;Arteca;17,56;27,9;ativo
+1269;CN-OA-0269;Caixa Organizadora FerroForte Slim 15;Organização e Armazenagem;Caixa Organizadora;FerroForte;37,96;65,9;descontinuado
+1270;CN-OA-0270;Caixa Organizadora Arteca Basic 49;Organização e Armazenagem;Caixa Organizadora;Arteca;41,16;66,9;ativo
+1271;CN-OA-0271;Gaveteiro Arteca Max 90;Organização e Armazenagem;Gaveteiro;Arteca;36,57;63,9;ativo
+1272;CN-OA-0272;Sapateira Domus Top 94;Organização e Armazenagem;Sapateira;Domus;24,85;50,9;ativo
+1273;CN-OA-0273;Sapateira TecnoLar Plus 41;Organização e Armazenagem;Sapateira;TecnoLar;15,0;28,9;ativo
+1274;CN-OA-0274;Gaveteiro Domus Max 82;Organização e Armazenagem;Gaveteiro;Domus;19,87;36,9;ativo
+1275;CN-OA-0275;Gaveteiro Domus Home 29;Organização e Armazenagem;Gaveteiro;Domus;11,51;20,9;ativo
+1276;CN-OA-0276;Caixa Organizadora Arteca Slim 92;Organização e Armazenagem;Caixa Organizadora;Arteca;25,63;41,9;ativo
+1277;CN-OA-0277;Gaveteiro Casalar Plus 90;Organização e Armazenagem;Gaveteiro;Casalar;36,39;62,9;ativo
+1278;CN-OA-0278;Caixa Organizadora Arteca Compacto 47;Organização e Armazenagem;Caixa Organizadora;Arteca;61,31;90,9;ativo
+1279;CN-OA-0279;Sapateira Casalar Max 52;Organização e Armazenagem;Sapateira;Casalar;56,5;112,9;ativo
+1280;CN-OA-0280;Caixa Organizadora ForteMax Premium 29;Organização e Armazenagem;Caixa Organizadora;ForteMax;52,14;96,9;ativo
+1281;CN-OA-0281;Caixa Organizadora LuzVida Plus 85;Organização e Armazenagem;Caixa Organizadora;LuzVida;75,41;132,9;ativo
+1282;CN-OA-0282;Caixa Organizadora LuzVida Max 23;Organização e Armazenagem;Caixa Organizadora;LuzVida;18,3;28,9;ativo
+1283;CN-OA-0283;Prateleira Casalar Plus 35;Organização e Armazenagem;Prateleira;Casalar;91,96;137,9;ativo
+1284;CN-OA-0284;Prateleira Arteca Basic 67;Organização e Armazenagem;Prateleira;Arteca;53,24;88,9;ativo
+1285;CN-OA-0285;Prateleira FerroForte Plus 14;Organização e Armazenagem;Prateleira;FerroForte;30,05;50,9;ativo
+1286;CN-OA-0286;Sapateira Verdecor Compacto 12;Organização e Armazenagem;Sapateira;Verdecor;30,05;52,9;ativo
+1287;CN-OA-0287;Sapateira FerroForte Premium 50;Organização e Armazenagem;Sapateira;FerroForte;37,69;73,9;ativo
+1288;CN-OA-0288;Armário Multiuso PratoFino Slim 55;Organização e Armazenagem;Armário Multiuso;PratoFino;22,82;39,9;ativo
+1289;CN-OA-0289;Caixa Organizadora ForteMax Top 63;Organização e Armazenagem;Caixa Organizadora;ForteMax;44,41;78,9;ativo
+1290;CN-OA-0290;Gaveteiro Domus Classic 13;Organização e Armazenagem;Gaveteiro;Domus;25,93;52,9;ativo
+1291;CN-OA-0291;Sapateira TecnoLar Pro 50;Organização e Armazenagem;Sapateira;TecnoLar;59,27;88,9;ativo
+1292;CN-OA-0292;Caixa Organizadora Brisa Classic 94;Organização e Armazenagem;Caixa Organizadora;Brisa;47,0;83,9;ativo
+1293;CN-OA-0293;Gaveteiro Verdecor Top 96;Organização e Armazenagem;Gaveteiro;Verdecor;42,91;76,9;ativo
+1294;CN-OA-0294;Caixa Organizadora Verdecor Home 44;Organização e Armazenagem;Caixa Organizadora;Verdecor;44,86;67,9;ativo
+1295;CN-OA-0295;Sapateira TecnoLar Max 27;Organização e Armazenagem;Sapateira;TecnoLar;27,73;49,9;ativo
+1296;CN-OA-0296;Cabideiro LuzVida Premium 73;Organização e Armazenagem;Cabideiro;LuzVida;53,62;98,9;ativo
+1297;CN-OA-0297;Caixa Organizadora PratoFino Compacto 40;Organização e Armazenagem;Caixa Organizadora;PratoFino;43,37;76,9;ativo
+1298;CN-OA-0298;Armário Multiuso LuzVida Top 93;Organização e Armazenagem;Armário Multiuso;LuzVida;40,61;94,9;ativo
+1299;CN-OA-0299;Sapateira Brisa Plus 56;Organização e Armazenagem;Sapateira;Brisa;80,0;144,9;ativo
+1300;CN-OA-0300;Cabideiro Casalar Basic 13;Organização e Armazenagem;Cabideiro;Casalar;44,09;76,9;ativo
+1301;CN-CM-0301;Tapete de Banheiro Casalar Top 43;Cama, Mesa e Banho;Tapete de Banheiro;Casalar;41,12;70,9;ativo
+1302;CN-CM-0302;Jogo de Lençol Casalar Basic 77;Cama, Mesa e Banho;Jogo de Lençol;Casalar;66,47;114,9;ativo
+1303;CN-CM-0303;Tapete de Banheiro PratoFino Pro 78;Cama, Mesa e Banho;Tapete de Banheiro;PratoFino;39,99;76,9;ativo
+1304;CN-CM-0304;Toalha de Banho ForteMax Pro 92;Cama, Mesa e Banho;Toalha de Banho;ForteMax;81,09;158,9;ativo
+1305;CN-CM-0305;Toalha de Banho Casalar Slim 78;Cama, Mesa e Banho;Toalha de Banho;Casalar;38,33;74,9;ativo
+1306;CN-CM-0306;Edredom Casalar Home 13;Cama, Mesa e Banho;Edredom;Casalar;60,88;115,9;ativo
+1307;CN-CM-0307;Travesseiro Verdecor Home 89;Cama, Mesa e Banho;Travesseiro;Verdecor;56,52;131,9;ativo
+1308;CN-CM-0308;Toalha de Banho Verdecor Pro 23;Cama, Mesa e Banho;Toalha de Banho;Verdecor;56,66;105,9;ativo
+1309;CN-CM-0309;Edredom Arteca Pro 79;Cama, Mesa e Banho;Edredom;Arteca;57,53;122,9;ativo
+1310;CN-CM-0310;Travesseiro PratoFino Premium 61;Cama, Mesa e Banho;Travesseiro;PratoFino;83,62;158,9;ativo
+1311;CN-CM-0311;Edredom PratoFino Premium 63;Cama, Mesa e Banho;Edredom;PratoFino;38,22;68,9;ativo
+1312;CN-CM-0312;Jogo de Lençol LuzVida Premium 93;Cama, Mesa e Banho;Jogo de Lençol;LuzVida;78,96;139,9;ativo
+1313;CN-CM-0313;Toalha de Banho PratoFino Compacto 23;Cama, Mesa e Banho;Toalha de Banho;PratoFino;76,85;135,9;ativo
+1314;CN-CM-0314;Tapete de Banheiro Brisa Max 92;Cama, Mesa e Banho;Tapete de Banheiro;Brisa;102,19;223,9;ativo
+1315;CN-CM-0315;Tapete de Banheiro Verdecor Max 89;Cama, Mesa e Banho;Tapete de Banheiro;Verdecor;47,15;103,9;ativo
+1316;CN-CM-0316;Toalha de Mesa Casalar Max 68;Cama, Mesa e Banho;Toalha de Mesa;Casalar;45,45;97,9;ativo
+1317;CN-CM-0317;Edredom Arteca Top 42;Cama, Mesa e Banho;Edredom;Arteca;51,54;93,9;ativo
+1318;CN-CM-0318;Edredom TecnoLar Plus 27;Cama, Mesa e Banho;Edredom;TecnoLar;55,8;88,9;ativo
+1319;CN-CM-0319;Jogo de Lençol TecnoLar Pro 43;Cama, Mesa e Banho;Jogo de Lençol;TecnoLar;41,82;76,9;ativo
+1320;CN-CM-0320;Toalha de Banho Brisa Classic 48;;Toalha de Banho;Brisa;68,18;131,9;ativo
+1321;CN-CM-0321;Toalha de Banho Casalar Classic 76;Cama, Mesa e Banho;Toalha de Banho;Casalar;35,52;66,9;ativo
+1322;CN-CM-0322;Toalha de Mesa Domus Max 84;Cama, Mesa e Banho;Toalha de Mesa;Domus;37,31;69,9;ativo
+1323;CN-CM-0323;Tapete de Banheiro LuzVida Compacto 47;Cama, Mesa e Banho;Tapete de Banheiro;LuzVida;163,4;307,9;ativo
+1324;CN-CM-0324;Jogo de Lençol LuzVida Classic 78;Cama, Mesa e Banho;Jogo de Lençol;LuzVida;32,5;60,9;ativo
+1325;CN-CM-0325;Toalha de Banho ForteMax Slim 36;Cama, Mesa e Banho;Toalha de Banho;ForteMax;27,29;54,9;ativo
+1326;CN-CM-0326;Travesseiro Casalar Premium 77;Cama, Mesa e Banho;Travesseiro;Casalar;98,11;170,9;ativo
+1327;CN-CM-0327;Toalha de Banho TecnoLar Basic 63;Cama, Mesa e Banho;Toalha de Banho;TecnoLar;64,67;121,9;ativo
+1328;CN-CM-0328;Edredom TecnoLar Plus 35;Cama, Mesa e Banho;Edredom;TecnoLar;49,69;95,9;ativo
+1329;CN-CM-0329;Toalha de Mesa Brisa Pro 45;Cama, Mesa e Banho;Toalha de Mesa;Brisa;134,44;116,9;ativo
+1330;CN-CM-0330;Jogo de Lençol LuzVida Compacto 54;Cama, Mesa e Banho;Jogo de Lençol;LuzVida;140,66;251,9;ativo
+1331;CN-CM-0331;Jogo de Lençol FerroForte Basic 87;Cama, Mesa e Banho;Jogo de Lençol;FerroForte;68,89;129,9;ativo
+1332;CN-CM-0332;Jogo de Lençol FerroForte Top 35;Cama, Mesa e Banho;Jogo de Lençol;FerroForte;96,93;192,9;ativo
+1333;CN-CM-0333;Tapete de Banheiro Arteca Home 15;Cama, Mesa e Banho;Tapete de Banheiro;Arteca;42,51;79,9;ativo
+1334;CN-CM-0334;Tapete de Banheiro Verdecor Pro 54;Cama, Mesa e Banho;Tapete de Banheiro;Verdecor;42,81;91,9;ativo
+1335;CN-CM-0335;Travesseiro Casalar Plus 69;Cama, Mesa e Banho;Travesseiro;Casalar;108,6;171,9;ativo
+1336;CN-CM-0336;Toalha de Banho TecnoLar Compacto 39;Cama, Mesa e Banho;Toalha de Banho;TecnoLar;47,85;92,9;ativo
+1337;CN-CM-0337;Toalha de Banho FerroForte Max 21;Cama, Mesa e Banho;Toalha de Banho;FerroForte;18,05;37,9;ativo
+1338;CN-CM-0338;Edredom FerroForte Basic 77;Cama, Mesa e Banho;Edredom;FerroForte;53,86;98,9;ativo
+1339;CN-CM-0339;Toalha de Banho Casalar Home 41;Cama, Mesa e Banho;Toalha de Banho;Casalar;114,77;210,9;ativo
+1340;CN-CM-0340;Travesseiro LuzVida Premium 59;Cama, Mesa e Banho;Travesseiro;LuzVida;38,76;79,9;ativo
+1341;CN-CM-0341;Edredom Arteca Max 59;Cama, Mesa e Banho;Edredom;Arteca;30,28;50,9;ativo
+1342;CN-CM-0342;Toalha de Mesa Domus Plus 57;Cama, Mesa e Banho;Toalha de Mesa;Domus;33,25;60,9;ativo
+1343;CN-CM-0343;Travesseiro PratoFino Classic 21;Cama, Mesa e Banho;Travesseiro;PratoFino;35,23;68,9;ativo
+1344;CN-CM-0344;Toalha de Banho Brisa Pro 71;Cama, Mesa e Banho;Toalha de Banho;Brisa;16,18;32,9;ativo
+1345;CN-CM-0345;Travesseiro ForteMax Top 72;Cama, Mesa e Banho;Travesseiro;ForteMax;25,45;46,9;ativo
+1346;CN-CM-0346;Edredom Verdecor Compacto 24;Cama, Mesa e Banho;Edredom;Verdecor;53,56;89,9;ativo
+1347;CN-CM-0347;Travesseiro PratoFino Home 61;;Travesseiro;PratoFino;43,92;81,9;ativo
+1348;CN-CM-0348;Jogo de Lençol Domus Classic 19;Cama, Mesa e Banho;Jogo de Lençol;Domus;38,65;58,9;ativo
+1349;CN-CM-0349;Toalha de Mesa Domus Plus 29;Cama, Mesa e Banho;Toalha de Mesa;Domus;34,91;70,9;ativo
+1350;CN-CM-0350;Travesseiro PratoFino Home 86;Cama, Mesa e Banho;Travesseiro;PratoFino;39,94;76,9;ativo
+1351;CN-CM-0351;Jogo de Lençol Casalar Plus 43;Cama, Mesa e Banho;Jogo de Lençol;Casalar;57,61;114,9;ativo
+1352;CN-CM-0352;Travesseiro FerroForte Home 44;Cama, Mesa e Banho;Travesseiro;FerroForte;91,56;159,9;ativo
+1353;CN-CM-0353;Travesseiro Domus Plus 14;Cama, Mesa e Banho;Travesseiro;Domus;33,51;63,9;ativo
+1354;CN-CM-0354;Travesseiro PratoFino Slim 54;Cama, Mesa e Banho;Travesseiro;PratoFino;79,29;155,9;ativo
+1355;CN-CM-0355;Edredom Arteca Max 93;Cama, Mesa e Banho;Edredom;ARTECA;41,92;75,9;ativo
+1356;CN-CM-0356;Travesseiro Verdecor Basic 18;Cama, Mesa e Banho;Travesseiro;Verdecor;40,48;67,9;ativo
+1357;CN-CM-0357;Toalha de Banho LuzVida Premium 24;Cama, Mesa e Banho;Toalha de Banho;LuzVida;38,55;68,9;ativo
+1358;CN-CM-0358;Jogo de Lençol Brisa Pro 90;Cama, Mesa e Banho;Jogo de Lençol;Brisa;44,11;85,9;ativo
+1359;CN-CM-0359;Toalha de Mesa Domus Pro 95;Cama, Mesa e Banho;Toalha de Mesa;Domus;80,18;146,9;ativo
+1360;CN-CM-0360;Jogo de Lençol Casalar Pro 48;Cama, Mesa e Banho;Jogo de Lençol;Casalar;51,73;98,9;ativo
+1361;CN-CM-0361;Edredom FerroForte Max 58;Cama, Mesa e Banho;Edredom;FerroForte;80,34;141,9;ativo
+1362;CN-CM-0362;Jogo de Lençol LuzVida Basic 33;Cama, Mesa e Banho;Jogo de Lençol;LuzVida;101,41;242,9;ativo
+1363;CN-CM-0363;Toalha de Mesa Domus Slim 63;Cama, Mesa e Banho;Toalha de Mesa;Domus;117,22;220,9;ativo
+1364;CN-CM-0364;Edredom Domus Slim 59;Cama, Mesa e Banho;Edredom;Domus;81,92;154,9;ativo
+1365;CN-CM-0365;Toalha de Banho Domus Top 20;Cama, Mesa e Banho;Toalha de Banho;Domus;49,19;101,9;ativo
+1366;CN-CM-0366;Edredom Casalar Slim 49;Cama, Mesa e Banho;Edredom;Casalar;77,05;141,9;ativo
+1367;CN-CM-0367;Toalha de Banho Verdecor Classic 68;Cama, Mesa e Banho;Toalha de Banho;Verdecor;61,91;115,9;ativo
+1368;CN-CM-0368;Edredom Verdecor Compacto 46;Cama, Mesa e Banho;Edredom;Verdecor;75,1;178,9;ativo
+1369;CN-CM-0369;Edredom Casalar Home 30;Cama, Mesa e Banho;Edredom;Casalar;46,86;84,9;ativo
+1370;CN-CM-0370;Travesseiro Arteca Pro 34;Cama, Mesa e Banho;Travesseiro;Arteca;19,32;37,9;ativo
+1371;CN-CM-0371;Toalha de Mesa Arteca Top 95;Cama, Mesa e Banho;Toalha de Mesa;Arteca;65,55;151,9;ativo
+1372;CN-CM-0372;Toalha de Banho Verdecor Pro 35;Cama, Mesa e Banho;Toalha de Banho;Verdecor;68,24;113,9;ativo
+1373;CN-CM-0373;Tapete de Banheiro Arteca Plus 48;Cama, Mesa e Banho;Tapete de Banheiro;Arteca;52,8;100,9;ativo
+1374;CN-CM-0374;Edredom FerroForte Top 61;Cama, Mesa e Banho;Edredom;FerroForte;88,87;205,9;ativo
+1375;CN-CM-0375;Edredom ForteMax Plus 85;Cama, Mesa e Banho;Edredom;ForteMax;63,94;122,9;ativo
+1376;CN-IL-0376;Pendente ForteMax Basic 45;Iluminação;Pendente;ForteMax;17,2;30,9;ativo
+1377;CN-IL-0377;Luminária de Mesa Arteca Max 31;Iluminação;Luminária de Mesa;Arteca;26,73;45,9;ativo
+1378;CN-IL-0378;Fita LED Casalar Premium 64;Iluminação;Fita LED;Casalar;12,68;24,9;ativo
+1379;CN-IL-0379;Luminária de Mesa PratoFino Classic 82;Iluminação;Luminária de Mesa;PratoFino;28,05;42,9;ativo
+1380;CN-IL-0380;Fita LED Arteca Slim 35;Iluminação;Fita LED;Arteca;31,99;52,9;ativo
+1381;CN-IL-0381;Luminária de Mesa LuzVida Premium 43;Iluminação;Luminária de Mesa;LuzVida;29,74;40,9;ativo
+1382;CN-IL-0382;Luminária de Mesa FerroForte Top 45;Iluminação;Luminária de Mesa;FerroForte;58,14;95,9;ativo
+1383;CN-IL-0383;Lâmpada LED TecnoLar Pro 51;Iluminação;Lâmpada LED;TecnoLar;15,74;25,9;ativo
+1384;CN-IL-0384;Fita LED Domus Premium 32;;Fita LED;Domus;118,4;183,9;ativo
+1385;CN-IL-0385;Luminária de Mesa PratoFino Compacto 59;Iluminação;Luminária de Mesa;PratoFino;19,82;34,9;ativo
+1386;CN-IL-0386;Refletor Verdecor Home 79;Iluminação;Refletor;Verdecor;22,88;35,9;ativo
+1387;CN-IL-0387;Abajur Casalar Pro 39;Iluminação;Abajur;Casalar;19,01;33,9;ativo
+1388;CN-IL-0388;Lâmpada LED PratoFino Top 18;Iluminação;Lâmpada LED;PratoFino;72,1;123,9;ativo
+1389;CN-IL-0389;Abajur TecnoLar Classic 26;Iluminação;Abajur;TecnoLar;18,62;28,9;ativo
+1390;CN-IL-0390;Lâmpada LED ForteMax Max 88;Iluminação;Lâmpada LED;ForteMax;13,07;17,9;ativo
+1391;CN-IL-0391;Fita LED Domus Classic 91;Iluminação;Fita LED;Domus;30,75;52,9;ativo
+1392;CN-IL-0392;Fita LED Brisa Pro 84;Iluminação;Fita LED;Brisa;31,97;52,9;ativo
+1393;CN-IL-0393;Luminária de Mesa Arteca Slim 41;Iluminação;Luminária de Mesa;Arteca;43,05;72,9;ativo
+1394;CN-IL-0394;Fita LED FerroForte Pro 66;Iluminação;Fita LED;FerroForte;96,48;83,9;ativo
+1395;CN-IL-0395;Luminária de Mesa Domus Compacto 44;Iluminação;Luminária de Mesa;Domus;22,55;36,9;ativo
+1396;CN-IL-0396;Luminária de Mesa Brisa Max 65;Iluminação;Luminária de Mesa;Brisa;79,43;127,9;ativo
+1397;CN-IL-0397;Pendente Brisa Compacto 63;Iluminação;Pendente;Brisa;64,95;104,9;ativo
+1398;CN-IL-0398;Fita LED ForteMax Pro 14;Iluminação;Fita LED;ForteMax;52,78;85,9;descontinuado
+1399;CN-IL-0399;Pendente PratoFino Basic 48;Iluminação;Pendente;PratoFino;30,17;67,9;ativo
+1400;CN-IL-0400;Fita LED Casalar Top 75;Iluminação;Fita LED;Casalar;18,57;28,9;ativo
+1401;CN-IL-0401;Fita LED ForteMax Max 51;Iluminação;Fita LED;ForteMax;80,64;142,9;ativo
+1402;CN-IL-0402;Abajur Domus Slim 14;Iluminação;Abajur;Domus;21,8;43,9;ativo
+1403;CN-IL-0403;Refletor LuzVida Home 30;Iluminação;Refletor;LuzVida;18,95;33,9;ativo
+1404;CN-IL-0404;Fita LED TecnoLar Compacto 38;Iluminação;Fita LED;TecnoLar;19,94;33,9;ativo
+1405;CN-IL-0405;Abajur Verdecor Slim 56;Iluminação;Abajur;Verdecor;42,26;73,9;ativo
+1406;CN-IL-0406;Abajur FerroForte Basic 92;Iluminação;Abajur;FerroForte;47,61;75,9;ativo
+1407;CN-IL-0407;Lâmpada LED Casalar Plus 34;Iluminação;Lâmpada LED;Casalar;12,34;19,9;descontinuado
+1408;CN-IL-0408;Lâmpada LED FerroForte Premium 39;Iluminação;Lâmpada LED;FerroForte;11,72;20,9;descontinuado
+1409;CN-IL-0409;Pendente Brisa Plus 23;Iluminação;Pendente;Brisa;15,18;25,9;ativo
+1410;CN-IL-0410;Fita LED Brisa Compacto 28;Iluminação;Fita LED;Brisa;16,27;29,9;ativo
+1411;CN-IL-0411;Pendente Brisa Compacto 43;Iluminação;Pendente;Brisa;32,36;58,9;ativo
+1412;CN-IL-0412;Pendente Brisa Home 23;;Pendente;Brisa;18,91;29,9;ativo
+1413;CN-IL-0413;Luminária de Mesa FerroForte Home 13;Iluminação;Luminária de Mesa;FerroForte;66,48;119,9;descontinuado
+1414;CN-IL-0414;Abajur FerroForte Plus 62;Iluminação;Abajur;FerroForte;22,98;36,9;ativo
+1415;CN-IL-0415;Pendente Domus Top 60;Iluminação;Pendente;Domus;13,25;19,9;ativo
+1416;CN-IL-0416;Refletor TecnoLar Slim 10;Iluminação;Refletor;TecnoLar;14,8;22,9;ativo
+1417;CN-IL-0417;Abajur FerroForte Plus 38;Iluminação;Abajur;FerroForte;35,74;60,9;ativo
+1418;CN-IL-0418;Abajur FerroForte Compacto 91;Iluminação;Abajur;FerroForte;38,3;64,9;ativo
+1419;CN-IL-0419;Fita LED Casalar Top 18;Iluminação;Fita LED;Casalar;18,92;38,9;ativo
+1420;CN-IL-0420;Pendente TecnoLar Top 26;Iluminação;Pendente;TecnoLar;20,13;30,9;ativo
+1421;CN-IL-0421;Luminária de Mesa Brisa Plus 68;Iluminação;Luminária de Mesa;BRISA;28,51;45,9;ativo
+1422;CN-IL-0422;Luminária de Mesa Domus Classic 63;Iluminação;Luminária de Mesa;Domus;34,92;65,9;ativo
+1423;CN-IL-0423;Abajur PratoFino Slim 80;Iluminação;Abajur;PratoFino;50,48;43,9;ativo
+1424;CN-IL-0424;Abajur PratoFino Plus 28;Iluminação;Abajur;PratoFino;12,53;20,9;ativo
+1425;CN-IL-0425;Fita LED PratoFino Pro 17;Iluminação;Fita LED;PratoFino;5,44;8,9;ativo
+1426;CN-IL-0426;Luminária de Mesa Casalar Premium 89;Iluminação;Luminária de Mesa;Casalar;28,59;40,9;ativo
+1427;CN-IL-0427;Abajur ForteMax Max 39;Iluminação;Abajur;ForteMax;56,83;88,9;ativo
+1428;CN-IL-0428;Lâmpada LED PratoFino Premium 33;Iluminação;Lâmpada LED;PratoFino;38,75;64,9;ativo
+1429;CN-IL-0429;Pendente ForteMax Premium 30;Iluminação;Pendente;ForteMax;18,11;26,9;ativo
+1430;CN-IL-0430;Abajur Casalar Home 43;Iluminação;Abajur;Casalar;52,22;87,9;ativo
+1431;CN-IL-0431;Pendente ForteMax Premium 67;Iluminação;Pendente;ForteMax;12,58;20,9;ativo
+1432;CN-IL-0432;Pendente Casalar Slim 64;Iluminação;Pendente;Casalar;25,05;43,9;ativo
+1433;CN-IL-0433;Fita LED LuzVida Plus 31;Iluminação;Fita LED;LuzVida;64,64;111,9;ativo
+1434;CN-IL-0434;Abajur Verdecor Pro 49;Iluminação;Abajur;Verdecor;13,64;26,9;ativo
+1435;CN-IL-0435;Fita LED ForteMax Slim 40;Iluminação;Fita LED;ForteMax;11,14;15,9;ativo
+1436;CN-IL-0436;Luminária de Mesa LuzVida Premium 79;Iluminação;Luminária de Mesa;LuzVida;116,09;188,9;ativo
+1437;CN-IL-0437;Pendente Verdecor Premium 87;Iluminação;Pendente;Verdecor;53,13;90,9;ativo
+1438;CN-IL-0438;Lâmpada LED Verdecor Premium 44;Iluminação;Lâmpada LED;Verdecor;35,86;57,9;ativo
+1439;CN-IL-0439;Lâmpada LED Brisa Pro 70;Iluminação;Lâmpada LED;Brisa;33,19;54,9;ativo
+1440;CN-IL-0440;Lâmpada LED Brisa Premium 73;Iluminação;Lâmpada LED;Brisa;30,63;50,9;ativo
+1441;CN-IL-0441;Lâmpada LED FerroForte Top 34;Iluminação;Lâmpada LED;FerroForte;20,97;36,9;ativo
+1442;CN-IL-0442;Refletor Verdecor Basic 58;Iluminação;Refletor;Verdecor;51,21;82,9;ativo
+1443;CN-IL-0443;Lâmpada LED Verdecor Slim 13;Iluminação;Lâmpada LED;Verdecor;21,2;34,9;ativo
+1444;CN-IL-0444;Fita LED Casalar Pro 36;Iluminação;Fita LED;Casalar;23,68;39,9;ativo
+1445;CN-IL-0445;Luminária de Mesa Arteca Pro 73;Iluminação;Luminária de Mesa;Arteca;31,92;48,9;descontinuado
+1446;CN-IL-0446;Lâmpada LED PratoFino Premium 26;Iluminação;Lâmpada LED;PratoFino;13,24;24,9;ativo
+1447;CN-IL-0447;Refletor Brisa Plus 95;Iluminação;Refletor;Brisa;43,91;67,9;ativo
+1448;CN-IL-0448;Lâmpada LED Domus Max 16;Iluminação;Lâmpada LED;Domus;49,44;78,9;ativo
+1449;CN-IL-0449;Luminária de Mesa ForteMax Premium 13;Iluminação;Luminária de Mesa;ForteMax;40,18;53,9;descontinuado
+1450;CN-IL-0450;Lâmpada LED PratoFino Home 53;Iluminação;Lâmpada LED;PratoFino;44,41;75,9;ativo
+1451;CN-JC-0451;Cortador de Grama ForteMax Max 35;Jardim e Churrasco;Cortador de Grama;ForteMax;116,71;252,9;ativo
+1452;CN-JC-0452;Kit Churrasco Domus Basic 59;Jardim e Churrasco;Kit Churrasco;Domus;85,41;184,9;ativo
+1453;CN-JC-0453;Regador ForteMax Classic 67;Jardim e Churrasco;Regador;ForteMax;90,29;184,9;descontinuado
+1454;CN-JC-0454;Churrasqueira Casalar Slim 41;Jardim e Churrasco;Churrasqueira;Casalar;46,77;75,9;ativo
+1455;CN-JC-0455;Vaso FerroForte Home 34;Jardim e Churrasco;Vaso;FerroForte;564,64;1200,9;ativo
+1456;CN-JC-0456;Mangueira ForteMax Classic 81;Jardim e Churrasco;Mangueira;ForteMax;234,55;404,9;ativo
+1457;CN-JC-0457;Kit Churrasco Verdecor Plus 56;Jardim e Churrasco;Kit Churrasco;Verdecor;39,27;78,9;ativo
+1458;CN-JC-0458;Kit Churrasco Brisa Classic 38;Jardim e Churrasco;Kit Churrasco;Brisa;99,71;177,9;ativo
+1459;CN-JC-0459;Vaso LuzVida Basic 40;Jardim e Churrasco;Vaso;LUZVIDA;29,43;54,9;ativo
+1460;CN-JC-0460;Mangueira Brisa Top 53;Jardim e Churrasco;Mangueira;Brisa;123,73;183,9;ativo
+1461;CN-JC-0461;Vaso TecnoLar Pro 17;Jardim e Churrasco;Vaso;TecnoLar;100,42;151,9;ativo
+1462;CN-JC-0462;Cortador de Grama TecnoLar Top 77;Jardim e Churrasco;Cortador de Grama;TecnoLar;24,99;34,9;ativo
+1463;CN-JC-0463;Churrasqueira PratoFino Max 72;Jardim e Churrasco;Churrasqueira;PratoFino;58,53;107,9;ativo
+1464;CN-JC-0464;Mangueira TecnoLar Compacto 12;Jardim e Churrasco;Mangueira;TecnoLar;91,3;189,9;ativo
+1465;CN-JC-0465;Cortador de Grama Domus Pro 18;Jardim e Churrasco;Cortador de Grama;Domus;64,77;114,9;ativo
+1466;CN-JC-0466;Vaso PratoFino Pro 96;Jardim e Churrasco;Vaso;PratoFino;323,06;582,9;ativo
+1467;CN-JC-0467;Mangueira Casalar Compacto 32;Jardim e Churrasco;Mangueira;Casalar;44,68;73,9;descontinuado
+1468;CN-JC-0468;Kit Churrasco PratoFino Home 93;Jardim e Churrasco;Kit Churrasco;PratoFino;31,86;58,9;ativo
+1469;CN-JC-0469;Kit Churrasco Casalar Pro 17;Jardim e Churrasco;Kit Churrasco;Casalar;30,2;56,9;ativo
+1470;CN-JC-0470;Vaso ForteMax Basic 85;Jardim e Churrasco;Vaso;ForteMax;37,46;59,9;ativo
+1471;CN-JC-0471;Regador LuzVida Slim 12;Jardim e Churrasco;Regador;LuzVida;132,98;220,9;ativo
+1472;CN-JC-0472;Kit Churrasco PratoFino Top 56;Jardim e Churrasco;Kit Churrasco;PratoFino;72,91;116,9;ativo
+1473;CN-JC-0473;Churrasqueira FerroForte Home 80;Jardim e Churrasco;Churrasqueira;FerroForte;65,81;110,9;ativo
+1474;CN-JC-0474;Cortador de Grama Casalar Pro 39;Jardim e Churrasco;Cortador de Grama;Casalar;17,67;35,9;ativo
+1475;CN-JC-0475;Cortador de Grama Verdecor Home 38;Jardim e Churrasco;Cortador de Grama;Verdecor;115,82;190,9;ativo
+1476;CN-JC-0476;Mangueira TecnoLar Premium 67;Jardim e Churrasco;Mangueira;TecnoLar;50,89;83,9;ativo
+1477;CN-JC-0477;Regador Casalar Premium 55;Jardim e Churrasco;Regador;Casalar;104,4;182,9;ativo
+1478;CN-JC-0478;Regador Verdecor Plus 87;Jardim e Churrasco;Regador;Verdecor;130,52;235,9;ativo
+1479;CN-JC-0479;Regador Domus Max 49;Jardim e Churrasco;Regador;Domus;49,56;70,9;ativo
+1480;CN-JC-0480;Churrasqueira Brisa Home 92;Jardim e Churrasco;Churrasqueira;BRISA;60,39;84,9;ativo
+1481;CN-JC-0481;Kit Churrasco Domus Compacto 56;Jardim e Churrasco;Kit Churrasco;Domus;116,65;209,9;ativo
+1482;CN-JC-0482;Kit Churrasco PratoFino Classic 18;Jardim e Churrasco;Kit Churrasco;PratoFino;68,52;116,9;ativo
+1483;CN-JC-0483;Regador Casalar Compacto 65;Jardim e Churrasco;Regador;Casalar;95,16;154,9;ativo
+1484;CN-JC-0484;Churrasqueira Arteca Plus 45;Jardim e Churrasco;Churrasqueira;arteca ;24,2;42,9;ativo
+1485;CN-JC-0485;Cortador de Grama Arteca Classic 60;Jardim e Churrasco;Cortador de Grama;Arteca;90,76;165,9;ativo
+1486;CN-JC-0486;Vaso Casalar Compacto 38;Jardim e Churrasco;Vaso;Casalar;46,84;76,9;ativo
+1487;CN-JC-0487;Vaso FerroForte Plus 88;Jardim e Churrasco;Vaso;FerroForte;95,01;152,9;ativo
+1488;CN-JC-0488;Churrasqueira TecnoLar Home 59;Jardim e Churrasco;Churrasqueira;TecnoLar;23,07;36,9;ativo
+1489;CN-JC-0489;Regador ForteMax Pro 11;Jardim e Churrasco;Regador;ForteMax;34,41;58,9;ativo
+1490;CN-JC-0490;Kit Churrasco Casalar Pro 80;Jardim e Churrasco;Kit Churrasco;Casalar;91,12;157,9;ativo
+1491;CN-JC-0491;Vaso Brisa Classic 59;Jardim e Churrasco;Vaso;Brisa;38,75;78,9;ativo
+1492;CN-JC-0492;Vaso Arteca Basic 60;Jardim e Churrasco;Vaso;Arteca;47,84;84,9;ativo
+1493;CN-JC-0493;Cortador de Grama PratoFino Classic 28;;Cortador de Grama;PratoFino;111,13;208,9;ativo
+1494;CN-JC-0494;Kit Churrasco FerroForte Classic 77;Jardim e Churrasco;Kit Churrasco;FerroForte;52,63;84,9;ativo
+1495;CN-JC-0495;Cortador de Grama PratoFino Top 73;Jardim e Churrasco;Cortador de Grama;PratoFino;68,01;114,9;ativo
+1496;CN-JC-0496;Regador Domus Slim 72;Jardim e Churrasco;Regador;Domus;97,66;185,9;ativo
+1497;CN-JC-0497;Cortador de Grama ForteMax Pro 58;Jardim e Churrasco;Cortador de Grama;ForteMax;27,61;49,9;ativo
+1498;CN-JC-0498;Cortador de Grama FerroForte Top 48;;Cortador de Grama;FerroForte;69,87;119,9;ativo
+1499;CN-JC-0499;Cortador de Grama Verdecor Pro 52;Jardim e Churrasco;Cortador de Grama;Verdecor;46,39;78,9;ativo
+1500;CN-JC-0500;Regador LuzVida Basic 37;Jardim e Churrasco;Regador;LuzVida;37,4;64,9;ativo
+1501;CN-JC-0501;Kit Churrasco LuzVida Compacto 52;Jardim e Churrasco;Kit Churrasco;LuzVida;26,94;43,9;ativo
+1502;CN-JC-0502;Kit Churrasco Arteca Plus 56;Jardim e Churrasco;Kit Churrasco;Arteca;130,24;202,9;ativo
+1503;CN-JC-0503;Regador Brisa Max 73;Jardim e Churrasco;Regador;Brisa;15,15;26,9;ativo
+1504;CN-JC-0504;Churrasqueira Brisa Pro 52;Jardim e Churrasco;Churrasqueira;Brisa;169,18;302,9;ativo
+1505;CN-JC-0505;Cortador de Grama FerroForte Basic 38;Jardim e Churrasco;Cortador de Grama;FerroForte;28,94;59,9;ativo
+1506;CN-JC-0506;Vaso ForteMax Slim 80;Jardim e Churrasco;Vaso;ForteMax;143,95;241,9;ativo
+1507;CN-JC-0507;Cortador de Grama Arteca Classic 79;Jardim e Churrasco;Cortador de Grama;Arteca;75,72;144,9;ativo
+1508;CN-JC-0508;Churrasqueira Arteca Compacto 98;Jardim e Churrasco;Churrasqueira;Arteca;25,49;43,9;ativo
+1509;CN-JC-0509;Churrasqueira FerroForte Compacto 93;Jardim e Churrasco;Churrasqueira;FerroForte;68,22;121,9;ativo
+1510;CN-JC-0510;Regador FerroForte Premium 39;Jardim e Churrasco;Regador;FerroForte;202,69;353,9;ativo
+1511;CN-JC-0511;Regador Domus Home 38;Jardim e Churrasco;Regador;Domus;168,82;366,9;ativo
+1512;CN-JC-0512;Vaso Verdecor Premium 59;;Vaso;Verdecor;38,24;84,9;ativo
+1513;CN-JC-0513;Mangueira FerroForte Max 63;Jardim e Churrasco;Mangueira;FerroForte;208,05;377,9;ativo
+1514;CN-JC-0514;Regador Arteca Max 57;Jardim e Churrasco;Regador;Arteca;20,51;37,9;ativo
+1515;CN-JC-0515;Regador FerroForte Basic 41;Jardim e Churrasco;Regador;FerroForte;111,76;191,9;ativo
+1516;CN-JC-0516;Vaso LuzVida Max 28;Jardim e Churrasco;Vaso;LUZVIDA;29,39;66,9;ativo
+1517;CN-JC-0517;Cortador de Grama Verdecor Basic 28;Jardim e Churrasco;Cortador de Grama;Verdecor;65,53;135,9;ativo
+1518;CN-JC-0518;Kit Churrasco LuzVida Premium 21;Jardim e Churrasco;Kit Churrasco;LuzVida;106,21;204,9;ativo
+1519;CN-JC-0519;Cortador de Grama Domus Top 80;Jardim e Churrasco;Cortador de Grama;Domus;77,96;126,9;ativo
+1520;CN-JC-0520;Churrasqueira LuzVida Pro 25;Jardim e Churrasco;Churrasqueira;LuzVida;120,64;104,9;ativo
+1521;CN-JC-0521;Vaso Casalar Slim 64;Jardim e Churrasco;Vaso;Casalar;367,38;574,9;ativo
+1522;CN-JC-0522;Regador Casalar Top 47;Jardim e Churrasco;Regador;Casalar;117,27;198,9;descontinuado
+1523;CN-JC-0523;Mangueira Verdecor Compacto 61;Jardim e Churrasco;Mangueira;Verdecor;74,2;113,9;ativo
+1524;CN-JC-0524;Regador TecnoLar Home 75;Jardim e Churrasco;Regador;tecnolar ;85,09;177,9;ativo
+1525;CN-JC-0525;Regador ForteMax Premium 74;Jardim e Churrasco;Regador;ForteMax;75,78;65,9;ativo
+1526;CN-DC-0526;Quadro Domus Plus 48;Decoração;Quadro;Domus;35,59;64,9;ativo
+1527;CN-DC-0527;Relógio de Parede LuzVida Max 93;Decoração;Relógio de Parede;LuzVida;107,1;259,9;ativo
+1528;CN-DC-0528;Cortina FerroForte Compacto 74;Decoração;Cortina;FerroForte;89,6;174,9;ativo
+1529;CN-DC-0529;Vaso Decorativo FerroForte Pro 18;Decoração;Vaso Decorativo;FERROFORTE;48,61;95,9;ativo
+1530;CN-DC-0530;Almofada TecnoLar Classic 55;Decoração;Almofada;TecnoLar;30,49;61,9;ativo
+1531;CN-DC-0531;Vaso Decorativo TecnoLar Pro 92;Decoração;Vaso Decorativo;TecnoLar;42,83;87,9;ativo
+1532;CN-DC-0532;Vaso Decorativo Casalar Compacto 80;Decoração;Vaso Decorativo;Casalar;21,04;36,9;ativo
+1533;CN-DC-0533;Espelho Domus Compacto 70;Decoração;Espelho;Domus;30,15;56,9;ativo
+1534;CN-DC-0534;Vaso Decorativo ForteMax Plus 95;Decoração;Vaso Decorativo;ForteMax;60,7;118,9;ativo
+1535;CN-DC-0535;Vaso Decorativo LuzVida Plus 95;Decoração;Vaso Decorativo;LuzVida;35,72;65,9;ativo
+1536;CN-DC-0536;Quadro LuzVida Home 23;Decoração;Quadro;LuzVida;53,96;105,9;ativo
+1537;CN-DC-0537;Vaso Decorativo ForteMax Plus 11;Decoração;Vaso Decorativo;ForteMax;58,9;113,9;ativo
+1538;CN-DC-0538;Espelho Casalar Classic 66;Decoração;Espelho;Casalar;51,83;88,9;ativo
+1539;CN-DC-0539;Cortina FerroForte Classic 48;Decoração;Cortina;FerroForte;90,66;179,9;ativo
+1540;CN-DC-0540;Quadro Domus Compacto 65;Decoração;Quadro;Domus;217,49;413,9;ativo
+1541;CN-DC-0541;Vaso Decorativo PratoFino Home 93;Decoração;Vaso Decorativo;PratoFino;29,69;52,9;ativo
+1542;CN-DC-0542;Almofada Verdecor Pro 49;Decoração;Almofada;Verdecor;14,52;26,9;ativo
+1543;CN-DC-0543;Vaso Decorativo LuzVida Max 68;Decoração;Vaso Decorativo;LuzVida;62,16;119,9;ativo
+1544;CN-DC-0544;Relógio de Parede LuzVida Max 34;Decoração;Relógio de Parede;LuzVida;30,22;62,9;ativo
+1545;CN-DC-0545;Espelho LuzVida Slim 72;Decoração;Espelho;LuzVida;51,55;107,9;descontinuado
+1546;CN-DC-0546;Cortina Domus Max 38;Decoração;Cortina;Domus;75,88;142,9;ativo
+1547;CN-DC-0547;Almofada Verdecor Plus 19;Decoração;Almofada;Verdecor;12,98;24,9;ativo
+1548;CN-DC-0548;Espelho Casalar Home 47;Decoração;Espelho;Casalar;114,86;216,9;ativo
+1549;CN-DC-0549;Cortina Verdecor Pro 85;Decoração;Cortina;Verdecor;35,59;63,9;ativo
+1550;CN-DC-0550;Cortina Domus Home 92;Decoração;Cortina;Domus;34,56;68,9;ativo
+1551;CN-DC-0551;Cortina FerroForte Classic 82;Decoração;Cortina;FerroForte;50,24;99,9;ativo
+1552;CN-DC-0552;Relógio de Parede Domus Max 58;Decoração;Relógio de Parede;Domus;25,43;49,9;ativo
+1553;CN-DC-0553;Almofada Arteca Plus 37;Decoração;Almofada;Arteca;37,97;73,9;ativo
+1554;CN-DC-0554;Almofada Verdecor Plus 40;;Almofada;Verdecor;20,08;37,9;ativo
+1555;CN-DC-0555;Espelho PratoFino Pro 90;Decoração;Espelho;PratoFino;55,8;93,9;ativo
+1556;CN-DC-0556;Almofada Casalar Compacto 40;Decoração;Almofada;Casalar;119,73;233,9;ativo
+1557;CN-DC-0557;Vaso Decorativo Casalar Premium 64;Decoração;Vaso Decorativo;Casalar;56,24;131,9;ativo
+1558;CN-DC-0558;Almofada Casalar Plus 47;Decoração;Almofada;Casalar;39,69;76,9;ativo
+1559;CN-DC-0559;Quadro Casalar Plus 94;Decoração;Quadro;Casalar;14,09;26,9;ativo
+1560;CN-DC-0560;Relógio de Parede FerroForte Top 40;Decoração;Relógio de Parede;FerroForte;21,31;40,9;ativo
+1561;CN-DC-0561;Quadro FerroForte Top 56;Decoração;Quadro;FerroForte;18,07;36,9;ativo
+1562;CN-DC-0562;Cortina Casalar Top 68;Decoração;Cortina;Casalar;40,8;94,9;ativo
+1563;CN-DC-0563;Espelho LuzVida Compacto 29;Decoração;Espelho;LuzVida;9,69;18,9;ativo
+1564;CN-DC-0564;Cortina Brisa Home 38;Decoração;Cortina;Brisa;47,83;97,9;ativo
+1565;CN-DC-0565;Cortina Verdecor Slim 73;Decoração;Cortina;Verdecor;15,15;28,9;ativo
+1566;CN-DC-0566;Espelho PratoFino Classic 23;Decoração;Espelho;PratoFino;17,86;30,9;ativo
+1567;CN-DC-0567;Cortina FerroForte Compacto 60;Decoração;Cortina;FerroForte;47,89;93,9;ativo
+1568;CN-DC-0568;Cortina Casalar Top 27;Decoração;Cortina;Casalar;16,8;26,9;ativo
+1569;CN-DC-0569;Espelho Brisa Slim 52;Decoração;Espelho;Brisa;50,04;98,9;ativo
+1570;CN-DC-0570;Almofada Domus Slim 37;Decoração;Almofada;Domus;32,86;61,9;ativo
+1571;CN-DC-0571;Cortina Verdecor Slim 92;Decoração;Cortina;Verdecor;38,15;75,9;ativo
+1572;CN-DC-0572;Vaso Decorativo LuzVida Compacto 94;Decoração;Vaso Decorativo;LuzVida;71,38;123,9;ativo
+1573;CN-DC-0573;Relógio de Parede Arteca Premium 94;Decoração;Relógio de Parede;Arteca;204,58;177,9;ativo
+1574;CN-DC-0574;Almofada ForteMax Basic 20;Decoração;Almofada;ForteMax;27,23;50,9;ativo
+1575;CN-DC-0575;Almofada Brisa Compacto 67;Decoração;Almofada;Brisa;47,11;117,9;descontinuado
+1576;CN-DC-0576;Almofada Verdecor Pro 23;Decoração;Almofada;Verdecor;31,83;58,9;ativo
+1577;CN-DC-0577;Espelho ForteMax Home 92;Decoração;Espelho;ForteMax;22,88;46,9;ativo
+1578;CN-DC-0578;Almofada FerroForte Max 84;Decoração;Almofada;FerroForte;72,38;138,9;ativo
+1579;CN-DC-0579;Espelho PratoFino Max 90;Decoração;Espelho;PratoFino;151,15;320,9;ativo
+1580;CN-DC-0580;Vaso Decorativo TecnoLar Top 73;Decoração;Vaso Decorativo;TecnoLar;49,0;97,9;ativo
+1581;CN-DC-0581;Espelho TecnoLar Slim 54;Decoração;Espelho;TecnoLar;70,49;134,9;ativo
+1582;CN-DC-0582;Vaso Decorativo Arteca Classic 94;Decoração;Vaso Decorativo;Arteca;50,48;43,9;ativo
+1583;CN-DC-0583;Vaso Decorativo Brisa Home 52;Decoração;Vaso Decorativo;Brisa;29,9;60,9;ativo
+1584;CN-DC-0584;Almofada Domus Plus 55;Decoração;Almofada;Domus;26,02;50,9;ativo
+1585;CN-DC-0585;Almofada ForteMax Pro 57;Decoração;Almofada;ForteMax;36,07;69,9;ativo
+1586;CN-DC-0586;Vaso Decorativo LuzVida Classic 48;Decoração;Vaso Decorativo;LuzVida;50,12;95,9;ativo
+1587;CN-DC-0587;Almofada PratoFino Pro 16;Decoração;Almofada;PratoFino;37,18;73,9;ativo
+1588;CN-DC-0588;Relógio de Parede LuzVida Plus 66;Decoração;Relógio de Parede;LuzVida;24,06;59,9;ativo
+1589;CN-DC-0589;Vaso Decorativo PratoFino Basic 72;Decoração;Vaso Decorativo;PratoFino;92,25;167,9;ativo
+1590;CN-DC-0590;Quadro PratoFino Top 68;Decoração;Quadro;PratoFino;76,67;159,9;ativo
+1591;CN-DC-0591;Cortina Domus Top 81;Decoração;Cortina;Domus;14,09;27,9;ativo
+1592;CN-DC-0592;Cortina Verdecor Top 59;Decoração;Cortina;Verdecor;54,93;96,9;ativo
+1593;CN-DC-0593;Cortina FerroForte Home 19;Decoração;Cortina;FerroForte;43,71;102,9;ativo
+1594;CN-DC-0594;Quadro Domus Basic 26;Decoração;Quadro;Domus;95,22;185,9;ativo
+1595;CN-DC-0595;Almofada Domus Basic 20;Decoração;Almofada;Domus;27,38;48,9;ativo
+1596;CN-DC-0596;Vaso Decorativo Casalar Compacto 26;Decoração;Vaso Decorativo;Casalar;21,65;37,9;ativo
+1597;CN-DC-0597;Almofada LuzVida Home 25;Decoração;Almofada;LuzVida;21,94;46,9;ativo
+1598;CN-DC-0598;Almofada Casalar Classic 15;Decoração;Almofada;Casalar;90,43;178,9;ativo
+1599;CN-DC-0599;Vaso Decorativo PratoFino Top 83;Decoração;Vaso Decorativo;PratoFino;46,81;113,9;ativo
+1600;CN-DC-0600;Vaso Decorativo LuzVida Top 27;Decoração;Vaso Decorativo;LUZVIDA;13,94;27,9;ativo
+1131;CN-FE-0131;Esmerilhadeira FerroForte Max 75;Ferramentas Elétricas;Esmerilhadeira;FerroForte;434,07;636,9;ativo
+1568;CN-DC-0568;Cortina Casalar Top 27;Decoração;Cortina;Casalar;16,8;26,9;ativo
+1140;CN-FE-0140;Serra Tico-Tico Domus Home 28;Ferramentas Elétricas;Serra Tico-Tico;Domus;231,0;361,9;ativo
+1447;CN-IL-0447;Refletor Brisa Plus 95;Iluminação;Refletor;Brisa;43,91;67,9;ativo
+1194;CN-UD-0194;Balde FerroForte Max 94;Utilidades Domésticas;Balde;FerroForte;7,06;12,9;ativo
+1003;CN-FM-0003;Trena Verdecor Home 15;Ferramentas Manuais;Trena;Verdecor;18,84;36,9;ativo

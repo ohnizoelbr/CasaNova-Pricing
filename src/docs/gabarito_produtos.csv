@@ -1,0 +1,601 @@
+﻿id_produto;sku;categoria;elasticidade_real;caro_demais;barato_demais;ruptura_lider;excesso_estoque
+1001;CN-FM-0001;Ferramentas Manuais;-0,795;0;0;0;0
+1002;CN-FM-0002;Ferramentas Manuais;-0,522;0;0;0;0
+1003;CN-FM-0003;Ferramentas Manuais;-0,512;0;0;0;0
+1004;CN-FM-0004;Ferramentas Manuais;-0,635;0;0;0;0
+1005;CN-FM-0005;Ferramentas Manuais;-0,651;0;0;0;0
+1006;CN-FM-0006;Ferramentas Manuais;-0,535;0;0;0;0
+1007;CN-FM-0007;Ferramentas Manuais;-0,588;0;0;0;0
+1008;CN-FM-0008;Ferramentas Manuais;-0,537;0;0;0;0
+1009;CN-FM-0009;Ferramentas Manuais;-0,687;0;0;0;0
+1010;CN-FM-0010;Ferramentas Manuais;-0,521;0;0;0;1
+1011;CN-FM-0011;Ferramentas Manuais;-0,692;0;0;0;0
+1012;CN-FM-0012;Ferramentas Manuais;-0,631;0;0;0;0
+1013;CN-FM-0013;Ferramentas Manuais;-0,647;0;0;0;0
+1014;CN-FM-0014;Ferramentas Manuais;-0,608;0;1;0;0
+1015;CN-FM-0015;Ferramentas Manuais;-0,638;0;1;0;0
+1016;CN-FM-0016;Ferramentas Manuais;-0,634;1;0;0;0
+1017;CN-FM-0017;Ferramentas Manuais;-0,593;1;0;0;0
+1018;CN-FM-0018;Ferramentas Manuais;-0,582;0;0;0;0
+1019;CN-FM-0019;Ferramentas Manuais;-0,664;0;0;0;1
+1020;CN-FM-0020;Ferramentas Manuais;-0,702;0;0;0;0
+1021;CN-FM-0021;Ferramentas Manuais;-0,813;0;0;0;0
+1022;CN-FM-0022;Ferramentas Manuais;-0,584;0;0;0;0
+1023;CN-FM-0023;Ferramentas Manuais;-0,587;0;0;0;0
+1024;CN-FM-0024;Ferramentas Manuais;-0,682;0;0;0;0
+1025;CN-FM-0025;Ferramentas Manuais;-0,665;1;0;0;0
+1026;CN-FM-0026;Ferramentas Manuais;-0,584;0;0;0;0
+1027;CN-FM-0027;Ferramentas Manuais;-0,557;0;0;0;0
+1028;CN-FM-0028;Ferramentas Manuais;-0,618;1;0;0;0
+1029;CN-FM-0029;Ferramentas Manuais;-0,639;1;0;0;0
+1030;CN-FM-0030;Ferramentas Manuais;-0,805;0;0;0;0
+1031;CN-FM-0031;Ferramentas Manuais;-0,733;0;0;0;0
+1032;CN-FM-0032;Ferramentas Manuais;-0,546;0;0;0;0
+1033;CN-FM-0033;Ferramentas Manuais;-0,708;0;0;0;0
+1034;CN-FM-0034;Ferramentas Manuais;-0,746;0;0;0;0
+1035;CN-FM-0035;Ferramentas Manuais;-0,616;0;0;0;0
+1036;CN-FM-0036;Ferramentas Manuais;-0,776;0;0;0;0
+1037;CN-FM-0037;Ferramentas Manuais;-0,717;0;0;0;0
+1038;CN-FM-0038;Ferramentas Manuais;-0,557;0;0;0;1
+1039;CN-FM-0039;Ferramentas Manuais;-0,656;0;0;0;0
+1040;CN-FM-0040;Ferramentas Manuais;-0,672;0;0;0;0
+1041;CN-FM-0041;Ferramentas Manuais;-0,676;0;0;0;0
+1042;CN-FM-0042;Ferramentas Manuais;-0,555;0;0;0;0
+1043;CN-FM-0043;Ferramentas Manuais;-0,625;0;0;0;0
+1044;CN-FM-0044;Ferramentas Manuais;-0,637;0;0;0;1
+1045;CN-FM-0045;Ferramentas Manuais;-0,606;0;0;0;0
+1046;CN-FM-0046;Ferramentas Manuais;-0,556;0;0;1;0
+1047;CN-FM-0047;Ferramentas Manuais;-0,501;0;0;0;0
+1048;CN-FM-0048;Ferramentas Manuais;-0,418;1;0;0;0
+1049;CN-FM-0049;Ferramentas Manuais;-0,536;1;0;0;0
+1050;CN-FM-0050;Ferramentas Manuais;-0,665;0;0;0;0
+1051;CN-FM-0051;Ferramentas Manuais;-0,438;0;0;0;0
+1052;CN-FM-0052;Ferramentas Manuais;-0,515;0;1;0;0
+1053;CN-FM-0053;Ferramentas Manuais;-0,686;1;0;0;0
+1054;CN-FM-0054;Ferramentas Manuais;-0,452;0;0;0;0
+1055;CN-FM-0055;Ferramentas Manuais;-0,514;0;0;0;0
+1056;CN-FM-0056;Ferramentas Manuais;-0,646;0;0;0;0
+1057;CN-FM-0057;Ferramentas Manuais;-0,556;0;0;0;0
+1058;CN-FM-0058;Ferramentas Manuais;-0,554;0;0;0;0
+1059;CN-FM-0059;Ferramentas Manuais;-0,547;0;0;0;0
+1060;CN-FM-0060;Ferramentas Manuais;-0,627;1;0;0;0
+1061;CN-FM-0061;Ferramentas Manuais;-0,668;0;0;0;0
+1062;CN-FM-0062;Ferramentas Manuais;-0,677;0;0;0;0
+1063;CN-FM-0063;Ferramentas Manuais;-0,636;1;0;0;0
+1064;CN-FM-0064;Ferramentas Manuais;-0,613;0;0;0;0
+1065;CN-FM-0065;Ferramentas Manuais;-0,557;1;0;0;0
+1066;CN-FM-0066;Ferramentas Manuais;-0,493;0;0;0;0
+1067;CN-FM-0067;Ferramentas Manuais;-0,392;0;0;0;0
+1068;CN-FM-0068;Ferramentas Manuais;-0,569;0;0;0;0
+1069;CN-FM-0069;Ferramentas Manuais;-0,406;0;0;0;0
+1070;CN-FM-0070;Ferramentas Manuais;-0,538;0;0;0;0
+1071;CN-FM-0071;Ferramentas Manuais;-0,457;0;0;0;0
+1072;CN-FM-0072;Ferramentas Manuais;-0,685;0;0;0;0
+1073;CN-FM-0073;Ferramentas Manuais;-0,506;0;0;0;0
+1074;CN-FM-0074;Ferramentas Manuais;-0,672;0;0;0;0
+1075;CN-FM-0075;Ferramentas Manuais;-0,553;0;0;0;0
+1076;CN-FE-0076;Ferramentas Elétricas;-0,733;1;0;0;0
+1077;CN-FE-0077;Ferramentas Elétricas;-0,819;0;0;0;0
+1078;CN-FE-0078;Ferramentas Elétricas;-0,836;1;0;0;0
+1079;CN-FE-0079;Ferramentas Elétricas;-0,685;0;0;0;0
+1080;CN-FE-0080;Ferramentas Elétricas;-0,825;0;0;0;0
+1081;CN-FE-0081;Ferramentas Elétricas;-0,744;0;0;0;0
+1082;CN-FE-0082;Ferramentas Elétricas;-0,924;0;0;0;1
+1083;CN-FE-0083;Ferramentas Elétricas;-0,726;0;0;0;0
+1084;CN-FE-0084;Ferramentas Elétricas;-0,774;1;0;0;0
+1085;CN-FE-0085;Ferramentas Elétricas;-0,764;0;1;0;0
+1086;CN-FE-0086;Ferramentas Elétricas;-0,918;0;0;0;0
+1087;CN-FE-0087;Ferramentas Elétricas;-0,965;0;0;0;0
+1088;CN-FE-0088;Ferramentas Elétricas;-0,748;0;0;0;0
+1089;CN-FE-0089;Ferramentas Elétricas;-0,755;0;0;0;0
+1090;CN-FE-0090;Ferramentas Elétricas;-0,881;0;0;0;1
+1091;CN-FE-0091;Ferramentas Elétricas;-0,797;0;0;0;0
+1092;CN-FE-0092;Ferramentas Elétricas;-0,904;1;0;0;0
+1093;CN-FE-0093;Ferramentas Elétricas;-0,829;0;0;0;0
+1094;CN-FE-0094;Ferramentas Elétricas;-0,595;0;0;0;0
+1095;CN-FE-0095;Ferramentas Elétricas;-0,839;0;0;1;0
+1096;CN-FE-0096;Ferramentas Elétricas;-0,887;0;0;0;0
+1097;CN-FE-0097;Ferramentas Elétricas;-0,834;0;0;0;0
+1098;CN-FE-0098;Ferramentas Elétricas;-0,722;0;0;0;0
+1099;CN-FE-0099;Ferramentas Elétricas;-0,761;0;0;0;0
+1100;CN-FE-0100;Ferramentas Elétricas;-0,852;0;0;0;0
+1101;CN-FE-0101;Ferramentas Elétricas;-0,769;0;0;0;0
+1102;CN-FE-0102;Ferramentas Elétricas;-0,896;0;0;0;0
+1103;CN-FE-0103;Ferramentas Elétricas;-0,695;0;0;0;1
+1104;CN-FE-0104;Ferramentas Elétricas;-0,73;0;0;0;0
+1105;CN-FE-0105;Ferramentas Elétricas;-0,835;0;0;0;0
+1106;CN-FE-0106;Ferramentas Elétricas;-0,654;0;0;0;0
+1107;CN-FE-0107;Ferramentas Elétricas;-0,745;0;0;0;0
+1108;CN-FE-0108;Ferramentas Elétricas;-1,025;0;0;0;0
+1109;CN-FE-0109;Ferramentas Elétricas;-0,62;0;0;0;0
+1110;CN-FE-0110;Ferramentas Elétricas;-0,595;0;0;1;0
+1111;CN-FE-0111;Ferramentas Elétricas;-0,675;0;0;0;0
+1112;CN-FE-0112;Ferramentas Elétricas;-0,856;0;0;0;0
+1113;CN-FE-0113;Ferramentas Elétricas;-0,799;0;1;0;0
+1114;CN-FE-0114;Ferramentas Elétricas;-0,808;0;0;1;0
+1115;CN-FE-0115;Ferramentas Elétricas;-0,908;0;0;0;0
+1116;CN-FE-0116;Ferramentas Elétricas;-0,812;0;0;0;0
+1117;CN-FE-0117;Ferramentas Elétricas;-0,766;0;0;0;0
+1118;CN-FE-0118;Ferramentas Elétricas;-0,778;0;0;0;0
+1119;CN-FE-0119;Ferramentas Elétricas;-0,84;0;0;0;0
+1120;CN-FE-0120;Ferramentas Elétricas;-0,768;0;0;0;1
+1121;CN-FE-0121;Ferramentas Elétricas;-0,679;0;1;0;0
+1122;CN-FE-0122;Ferramentas Elétricas;-0,889;0;1;0;0
+1123;CN-FE-0123;Ferramentas Elétricas;-0,625;0;0;0;0
+1124;CN-FE-0124;Ferramentas Elétricas;-0,703;0;0;0;0
+1125;CN-FE-0125;Ferramentas Elétricas;-0,766;0;0;0;0
+1126;CN-FE-0126;Ferramentas Elétricas;-0,792;0;0;0;0
+1127;CN-FE-0127;Ferramentas Elétricas;-0,772;0;1;0;0
+1128;CN-FE-0128;Ferramentas Elétricas;-0,822;1;0;0;0
+1129;CN-FE-0129;Ferramentas Elétricas;-0,909;1;0;0;0
+1130;CN-FE-0130;Ferramentas Elétricas;-0,856;1;0;0;0
+1131;CN-FE-0131;Ferramentas Elétricas;-0,752;0;0;0;0
+1132;CN-FE-0132;Ferramentas Elétricas;-0,594;0;0;0;0
+1133;CN-FE-0133;Ferramentas Elétricas;-0,744;0;1;0;0
+1134;CN-FE-0134;Ferramentas Elétricas;-0,988;0;0;0;0
+1135;CN-FE-0135;Ferramentas Elétricas;-0,817;0;0;0;0
+1136;CN-FE-0136;Ferramentas Elétricas;-0,635;0;0;0;0
+1137;CN-FE-0137;Ferramentas Elétricas;-0,779;0;0;0;0
+1138;CN-FE-0138;Ferramentas Elétricas;-1,093;1;0;0;0
+1139;CN-FE-0139;Ferramentas Elétricas;-0,871;0;0;0;0
+1140;CN-FE-0140;Ferramentas Elétricas;-0,787;0;0;0;0
+1141;CN-FE-0141;Ferramentas Elétricas;-0,708;0;0;0;0
+1142;CN-FE-0142;Ferramentas Elétricas;-0,904;0;0;0;0
+1143;CN-FE-0143;Ferramentas Elétricas;-0,777;0;0;0;0
+1144;CN-FE-0144;Ferramentas Elétricas;-0,74;0;0;0;1
+1145;CN-FE-0145;Ferramentas Elétricas;-0,811;0;0;0;0
+1146;CN-FE-0146;Ferramentas Elétricas;-0,873;0;0;0;1
+1147;CN-FE-0147;Ferramentas Elétricas;-0,724;0;0;0;0
+1148;CN-FE-0148;Ferramentas Elétricas;-0,902;0;0;0;0
+1149;CN-FE-0149;Ferramentas Elétricas;-0,759;0;0;0;0
+1150;CN-FE-0150;Ferramentas Elétricas;-0,695;0;0;0;0
+1151;CN-UD-0151;Utilidades Domésticas;-1,801;0;0;0;1
+1152;CN-UD-0152;Utilidades Domésticas;-1,89;0;0;0;0
+1153;CN-UD-0153;Utilidades Domésticas;-2,024;0;0;0;0
+1154;CN-UD-0154;Utilidades Domésticas;-1,859;0;0;0;0
+1155;CN-UD-0155;Utilidades Domésticas;-1,964;0;0;0;0
+1156;CN-UD-0156;Utilidades Domésticas;-2,011;0;0;0;0
+1157;CN-UD-0157;Utilidades Domésticas;-1,959;0;0;0;0
+1158;CN-UD-0158;Utilidades Domésticas;-1,941;0;0;0;0
+1159;CN-UD-0159;Utilidades Domésticas;-1,821;0;1;0;0
+1160;CN-UD-0160;Utilidades Domésticas;-1,803;0;0;0;0
+1161;CN-UD-0161;Utilidades Domésticas;-1,83;0;0;0;0
+1162;CN-UD-0162;Utilidades Domésticas;-2,015;0;0;0;0
+1163;CN-UD-0163;Utilidades Domésticas;-1,999;0;0;0;0
+1164;CN-UD-0164;Utilidades Domésticas;-1,723;0;0;0;0
+1165;CN-UD-0165;Utilidades Domésticas;-1,762;0;0;0;0
+1166;CN-UD-0166;Utilidades Domésticas;-1,728;0;0;0;0
+1167;CN-UD-0167;Utilidades Domésticas;-1,938;0;0;0;0
+1168;CN-UD-0168;Utilidades Domésticas;-1,83;0;0;0;0
+1169;CN-UD-0169;Utilidades Domésticas;-1,936;0;0;0;0
+1170;CN-UD-0170;Utilidades Domésticas;-1,941;0;0;0;0
+1171;CN-UD-0171;Utilidades Domésticas;-2,06;0;0;0;0
+1172;CN-UD-0172;Utilidades Domésticas;-1,98;1;0;0;0
+1173;CN-UD-0173;Utilidades Domésticas;-1,914;0;0;0;0
+1174;CN-UD-0174;Utilidades Domésticas;-2,023;0;0;0;1
+1175;CN-UD-0175;Utilidades Domésticas;-1,91;0;1;0;0
+1176;CN-UD-0176;Utilidades Domésticas;-1,811;1;0;0;0
+1177;CN-UD-0177;Utilidades Domésticas;-2,125;0;1;0;0
+1178;CN-UD-0178;Utilidades Domésticas;-1,99;0;0;0;0
+1179;CN-UD-0179;Utilidades Domésticas;-2,012;0;0;0;0
+1180;CN-UD-0180;Utilidades Domésticas;-1,897;0;0;0;0
+1181;CN-UD-0181;Utilidades Domésticas;-1,953;0;0;0;0
+1182;CN-UD-0182;Utilidades Domésticas;-1,803;0;0;0;0
+1183;CN-UD-0183;Utilidades Domésticas;-1,904;0;0;1;0
+1184;CN-UD-0184;Utilidades Domésticas;-1,905;1;0;0;0
+1185;CN-UD-0185;Utilidades Domésticas;-1,755;0;0;0;0
+1186;CN-UD-0186;Utilidades Domésticas;-1,864;0;0;0;0
+1187;CN-UD-0187;Utilidades Domésticas;-1,875;0;0;0;0
+1188;CN-UD-0188;Utilidades Domésticas;-1,939;0;0;0;0
+1189;CN-UD-0189;Utilidades Domésticas;-1,997;0;0;0;0
+1190;CN-UD-0190;Utilidades Domésticas;-2,148;1;0;0;0
+1191;CN-UD-0191;Utilidades Domésticas;-1,968;0;0;0;0
+1192;CN-UD-0192;Utilidades Domésticas;-1,781;0;0;0;0
+1193;CN-UD-0193;Utilidades Domésticas;-1,871;0;0;0;0
+1194;CN-UD-0194;Utilidades Domésticas;-1,873;0;0;0;0
+1195;CN-UD-0195;Utilidades Domésticas;-1,98;0;0;0;0
+1196;CN-UD-0196;Utilidades Domésticas;-1,973;0;0;0;0
+1197;CN-UD-0197;Utilidades Domésticas;-1,828;0;0;1;0
+1198;CN-UD-0198;Utilidades Domésticas;-1,938;0;0;0;0
+1199;CN-UD-0199;Utilidades Domésticas;-1,767;0;1;0;0
+1200;CN-UD-0200;Utilidades Domésticas;-1,902;1;0;0;0
+1201;CN-UD-0201;Utilidades Domésticas;-2,187;0;0;0;1
+1202;CN-UD-0202;Utilidades Domésticas;-1,866;0;0;0;0
+1203;CN-UD-0203;Utilidades Domésticas;-1,714;0;1;0;0
+1204;CN-UD-0204;Utilidades Domésticas;-1,92;0;0;0;0
+1205;CN-UD-0205;Utilidades Domésticas;-1,849;0;0;0;0
+1206;CN-UD-0206;Utilidades Domésticas;-1,677;0;0;0;0
+1207;CN-UD-0207;Utilidades Domésticas;-1,76;0;0;0;0
+1208;CN-UD-0208;Utilidades Domésticas;-1,927;0;0;0;1
+1209;CN-UD-0209;Utilidades Domésticas;-2,196;0;0;0;0
+1210;CN-UD-0210;Utilidades Domésticas;-1,914;0;0;0;0
+1211;CN-UD-0211;Utilidades Domésticas;-1,849;0;0;0;0
+1212;CN-UD-0212;Utilidades Domésticas;-1,721;0;0;0;0
+1213;CN-UD-0213;Utilidades Domésticas;-1,896;0;0;0;1
+1214;CN-UD-0214;Utilidades Domésticas;-1,901;0;0;0;0
+1215;CN-UD-0215;Utilidades Domésticas;-1,729;0;0;0;0
+1216;CN-UD-0216;Utilidades Domésticas;-1,812;0;0;0;0
+1217;CN-UD-0217;Utilidades Domésticas;-2,007;0;0;0;0
+1218;CN-UD-0218;Utilidades Domésticas;-1,957;0;0;0;0
+1219;CN-UD-0219;Utilidades Domésticas;-1,904;0;0;1;0
+1220;CN-UD-0220;Utilidades Domésticas;-2,068;0;0;0;0
+1221;CN-UD-0221;Utilidades Domésticas;-2,175;0;0;0;0
+1222;CN-UD-0222;Utilidades Domésticas;-2,113;0;0;0;0
+1223;CN-UD-0223;Utilidades Domésticas;-1,996;0;0;0;0
+1224;CN-UD-0224;Utilidades Domésticas;-1,876;0;1;0;0
+1225;CN-UD-0225;Utilidades Domésticas;-1,86;0;0;0;0
+1226;CN-OA-0226;Organização e Armazenagem;-1,573;0;1;0;0
+1227;CN-OA-0227;Organização e Armazenagem;-1,615;0;0;0;1
+1228;CN-OA-0228;Organização e Armazenagem;-1,497;0;0;0;0
+1229;CN-OA-0229;Organização e Armazenagem;-1,397;0;0;0;0
+1230;CN-OA-0230;Organização e Armazenagem;-1,512;0;0;0;0
+1231;CN-OA-0231;Organização e Armazenagem;-1,641;0;1;0;0
+1232;CN-OA-0232;Organização e Armazenagem;-1,342;0;0;0;0
+1233;CN-OA-0233;Organização e Armazenagem;-1,364;0;0;0;0
+1234;CN-OA-0234;Organização e Armazenagem;-1,504;0;0;0;0
+1235;CN-OA-0235;Organização e Armazenagem;-1,576;0;0;0;0
+1236;CN-OA-0236;Organização e Armazenagem;-1,734;0;0;0;0
+1237;CN-OA-0237;Organização e Armazenagem;-1,502;0;0;0;0
+1238;CN-OA-0238;Organização e Armazenagem;-1,647;0;0;0;0
+1239;CN-OA-0239;Organização e Armazenagem;-1,512;0;0;0;0
+1240;CN-OA-0240;Organização e Armazenagem;-1,539;0;0;0;0
+1241;CN-OA-0241;Organização e Armazenagem;-1,261;0;0;0;0
+1242;CN-OA-0242;Organização e Armazenagem;-1,5;0;0;0;0
+1243;CN-OA-0243;Organização e Armazenagem;-1,523;0;0;0;0
+1244;CN-OA-0244;Organização e Armazenagem;-1,603;0;0;0;1
+1245;CN-OA-0245;Organização e Armazenagem;-1,514;0;0;0;0
+1246;CN-OA-0246;Organização e Armazenagem;-1,482;0;1;0;0
+1247;CN-OA-0247;Organização e Armazenagem;-1,613;0;0;0;0
+1248;CN-OA-0248;Organização e Armazenagem;-1,474;1;0;0;0
+1249;CN-OA-0249;Organização e Armazenagem;-1,601;0;0;0;0
+1250;CN-OA-0250;Organização e Armazenagem;-1,64;0;0;0;1
+1251;CN-OA-0251;Organização e Armazenagem;-1,493;1;0;0;0
+1252;CN-OA-0252;Organização e Armazenagem;-1,409;0;0;0;0
+1253;CN-OA-0253;Organização e Armazenagem;-1,449;0;0;0;0
+1254;CN-OA-0254;Organização e Armazenagem;-1,411;0;0;0;0
+1255;CN-OA-0255;Organização e Armazenagem;-1,329;0;0;1;0
+1256;CN-OA-0256;Organização e Armazenagem;-1,606;0;0;0;0
+1257;CN-OA-0257;Organização e Armazenagem;-1,545;0;0;0;0
+1258;CN-OA-0258;Organização e Armazenagem;-1,479;0;0;0;0
+1259;CN-OA-0259;Organização e Armazenagem;-1,431;0;0;0;0
+1260;CN-OA-0260;Organização e Armazenagem;-1,501;0;1;0;0
+1261;CN-OA-0261;Organização e Armazenagem;-1,556;1;0;0;0
+1262;CN-OA-0262;Organização e Armazenagem;-1,692;1;0;0;0
+1263;CN-OA-0263;Organização e Armazenagem;-1,473;0;0;0;0
+1264;CN-OA-0264;Organização e Armazenagem;-1,526;0;0;0;1
+1265;CN-OA-0265;Organização e Armazenagem;-1,414;0;0;0;0
+1266;CN-OA-0266;Organização e Armazenagem;-1,459;0;0;0;0
+1267;CN-OA-0267;Organização e Armazenagem;-1,559;0;1;0;0
+1268;CN-OA-0268;Organização e Armazenagem;-1,612;0;0;0;0
+1269;CN-OA-0269;Organização e Armazenagem;-1,452;0;0;0;0
+1270;CN-OA-0270;Organização e Armazenagem;-1,608;0;0;0;0
+1271;CN-OA-0271;Organização e Armazenagem;-1,537;0;0;0;0
+1272;CN-OA-0272;Organização e Armazenagem;-1,683;1;0;0;0
+1273;CN-OA-0273;Organização e Armazenagem;-1,546;0;0;0;0
+1274;CN-OA-0274;Organização e Armazenagem;-1,446;0;0;0;0
+1275;CN-OA-0275;Organização e Armazenagem;-1,655;0;0;0;0
+1276;CN-OA-0276;Organização e Armazenagem;-1,513;0;1;0;0
+1277;CN-OA-0277;Organização e Armazenagem;-1,578;0;0;0;0
+1278;CN-OA-0278;Organização e Armazenagem;-1,397;0;0;0;0
+1279;CN-OA-0279;Organização e Armazenagem;-1,506;1;0;0;0
+1280;CN-OA-0280;Organização e Armazenagem;-1,54;0;0;0;0
+1281;CN-OA-0281;Organização e Armazenagem;-1,568;0;0;0;0
+1282;CN-OA-0282;Organização e Armazenagem;-1,68;0;0;0;0
+1283;CN-OA-0283;Organização e Armazenagem;-1,678;0;1;0;0
+1284;CN-OA-0284;Organização e Armazenagem;-1,559;0;0;0;0
+1285;CN-OA-0285;Organização e Armazenagem;-1,476;0;0;0;0
+1286;CN-OA-0286;Organização e Armazenagem;-1,33;0;0;0;0
+1287;CN-OA-0287;Organização e Armazenagem;-1,483;0;0;0;0
+1288;CN-OA-0288;Organização e Armazenagem;-1,577;0;0;0;0
+1289;CN-OA-0289;Organização e Armazenagem;-1,491;0;0;0;0
+1290;CN-OA-0290;Organização e Armazenagem;-1,567;0;0;0;0
+1291;CN-OA-0291;Organização e Armazenagem;-1,381;0;1;0;0
+1292;CN-OA-0292;Organização e Armazenagem;-1,484;0;0;0;0
+1293;CN-OA-0293;Organização e Armazenagem;-1,487;0;0;0;0
+1294;CN-OA-0294;Organização e Armazenagem;-1,548;0;0;0;0
+1295;CN-OA-0295;Organização e Armazenagem;-1,546;0;0;0;0
+1296;CN-OA-0296;Organização e Armazenagem;-1,576;0;0;0;0
+1297;CN-OA-0297;Organização e Armazenagem;-1,423;0;0;0;1
+1298;CN-OA-0298;Organização e Armazenagem;-1,681;1;0;0;0
+1299;CN-OA-0299;Organização e Armazenagem;-1,531;0;0;0;0
+1300;CN-OA-0300;Organização e Armazenagem;-1,641;0;0;0;0
+1301;CN-CM-0301;Cama, Mesa e Banho;-1,295;0;0;0;0
+1302;CN-CM-0302;Cama, Mesa e Banho;-1,198;0;0;0;0
+1303;CN-CM-0303;Cama, Mesa e Banho;-1,237;0;0;0;0
+1304;CN-CM-0304;Cama, Mesa e Banho;-1,481;0;0;0;0
+1305;CN-CM-0305;Cama, Mesa e Banho;-1,351;0;0;0;0
+1306;CN-CM-0306;Cama, Mesa e Banho;-1,209;0;0;0;0
+1307;CN-CM-0307;Cama, Mesa e Banho;-1,223;1;0;0;0
+1308;CN-CM-0308;Cama, Mesa e Banho;-1,079;0;0;0;0
+1309;CN-CM-0309;Cama, Mesa e Banho;-1,268;0;0;0;0
+1310;CN-CM-0310;Cama, Mesa e Banho;-1,309;0;0;0;0
+1311;CN-CM-0311;Cama, Mesa e Banho;-1,206;0;0;0;0
+1312;CN-CM-0312;Cama, Mesa e Banho;-1,278;0;0;0;0
+1313;CN-CM-0313;Cama, Mesa e Banho;-1,394;0;0;0;0
+1314;CN-CM-0314;Cama, Mesa e Banho;-1,374;0;0;0;0
+1315;CN-CM-0315;Cama, Mesa e Banho;-1,295;1;0;0;0
+1316;CN-CM-0316;Cama, Mesa e Banho;-1,486;0;0;0;1
+1317;CN-CM-0317;Cama, Mesa e Banho;-1,245;0;0;0;0
+1318;CN-CM-0318;Cama, Mesa e Banho;-1,318;0;1;0;0
+1319;CN-CM-0319;Cama, Mesa e Banho;-1,24;0;0;0;0
+1320;CN-CM-0320;Cama, Mesa e Banho;-1,221;0;0;0;0
+1321;CN-CM-0321;Cama, Mesa e Banho;-1,31;0;0;0;0
+1322;CN-CM-0322;Cama, Mesa e Banho;-1,41;0;0;0;0
+1323;CN-CM-0323;Cama, Mesa e Banho;-1,408;0;0;0;0
+1324;CN-CM-0324;Cama, Mesa e Banho;-1,39;0;0;0;0
+1325;CN-CM-0325;Cama, Mesa e Banho;-1,362;0;0;0;0
+1326;CN-CM-0326;Cama, Mesa e Banho;-1,232;0;0;0;1
+1327;CN-CM-0327;Cama, Mesa e Banho;-1,245;0;0;0;0
+1328;CN-CM-0328;Cama, Mesa e Banho;-1,239;0;0;0;0
+1329;CN-CM-0329;Cama, Mesa e Banho;-1,209;0;0;0;0
+1330;CN-CM-0330;Cama, Mesa e Banho;-1,176;0;0;0;0
+1331;CN-CM-0331;Cama, Mesa e Banho;-1,072;0;0;0;0
+1332;CN-CM-0332;Cama, Mesa e Banho;-1,184;0;0;0;0
+1333;CN-CM-0333;Cama, Mesa e Banho;-1,389;0;0;0;0
+1334;CN-CM-0334;Cama, Mesa e Banho;-1,171;0;0;0;0
+1335;CN-CM-0335;Cama, Mesa e Banho;-1,263;0;1;0;0
+1336;CN-CM-0336;Cama, Mesa e Banho;-1,186;0;0;0;0
+1337;CN-CM-0337;Cama, Mesa e Banho;-1,2;0;0;0;0
+1338;CN-CM-0338;Cama, Mesa e Banho;-1,023;0;0;0;0
+1339;CN-CM-0339;Cama, Mesa e Banho;-1,319;0;0;0;0
+1340;CN-CM-0340;Cama, Mesa e Banho;-1,235;0;0;0;0
+1341;CN-CM-0341;Cama, Mesa e Banho;-1,268;0;0;0;0
+1342;CN-CM-0342;Cama, Mesa e Banho;-1,047;0;0;0;0
+1343;CN-CM-0343;Cama, Mesa e Banho;-1,324;0;0;0;0
+1344;CN-CM-0344;Cama, Mesa e Banho;-1,296;0;0;0;0
+1345;CN-CM-0345;Cama, Mesa e Banho;-1,361;0;0;0;0
+1346;CN-CM-0346;Cama, Mesa e Banho;-1,466;0;0;0;0
+1347;CN-CM-0347;Cama, Mesa e Banho;-1,241;0;0;0;0
+1348;CN-CM-0348;Cama, Mesa e Banho;-1,271;0;1;0;0
+1349;CN-CM-0349;Cama, Mesa e Banho;-1,444;0;0;0;0
+1350;CN-CM-0350;Cama, Mesa e Banho;-1,486;0;0;0;0
+1351;CN-CM-0351;Cama, Mesa e Banho;-1,358;0;0;0;0
+1352;CN-CM-0352;Cama, Mesa e Banho;-1,324;0;0;0;0
+1353;CN-CM-0353;Cama, Mesa e Banho;-1,313;0;0;0;0
+1354;CN-CM-0354;Cama, Mesa e Banho;-1,338;0;0;0;0
+1355;CN-CM-0355;Cama, Mesa e Banho;-1,383;0;0;0;0
+1356;CN-CM-0356;Cama, Mesa e Banho;-1,426;0;0;0;0
+1357;CN-CM-0357;Cama, Mesa e Banho;-1,168;0;0;0;0
+1358;CN-CM-0358;Cama, Mesa e Banho;-1,391;0;0;0;0
+1359;CN-CM-0359;Cama, Mesa e Banho;-1,388;0;0;0;0
+1360;CN-CM-0360;Cama, Mesa e Banho;-1,162;0;0;0;0
+1361;CN-CM-0361;Cama, Mesa e Banho;-1,079;0;0;0;0
+1362;CN-CM-0362;Cama, Mesa e Banho;-1,199;1;0;0;0
+1363;CN-CM-0363;Cama, Mesa e Banho;-1,331;0;0;0;0
+1364;CN-CM-0364;Cama, Mesa e Banho;-1,299;0;0;0;0
+1365;CN-CM-0365;Cama, Mesa e Banho;-1,246;0;0;0;0
+1366;CN-CM-0366;Cama, Mesa e Banho;-1,192;0;0;0;0
+1367;CN-CM-0367;Cama, Mesa e Banho;-1,195;0;0;0;0
+1368;CN-CM-0368;Cama, Mesa e Banho;-1,332;1;0;0;0
+1369;CN-CM-0369;Cama, Mesa e Banho;-1,25;0;1;0;0
+1370;CN-CM-0370;Cama, Mesa e Banho;-1,51;0;0;0;0
+1371;CN-CM-0371;Cama, Mesa e Banho;-1,132;1;0;0;0
+1372;CN-CM-0372;Cama, Mesa e Banho;-1,073;0;0;0;0
+1373;CN-CM-0373;Cama, Mesa e Banho;-1,396;0;0;0;0
+1374;CN-CM-0374;Cama, Mesa e Banho;-1,254;1;0;0;0
+1375;CN-CM-0375;Cama, Mesa e Banho;-1,084;0;0;0;0
+1376;CN-IL-0376;Iluminação;-1,291;0;0;0;0
+1377;CN-IL-0377;Iluminação;-1,19;0;0;0;1
+1378;CN-IL-0378;Iluminação;-1,16;1;0;0;0
+1379;CN-IL-0379;Iluminação;-0,934;0;1;0;0
+1380;CN-IL-0380;Iluminação;-0,965;0;0;0;0
+1381;CN-IL-0381;Iluminação;-1,099;0;1;0;0
+1382;CN-IL-0382;Iluminação;-1,034;0;0;0;1
+1383;CN-IL-0383;Iluminação;-1,116;0;0;1;0
+1384;CN-IL-0384;Iluminação;-1,084;0;0;0;0
+1385;CN-IL-0385;Iluminação;-1,118;0;0;0;0
+1386;CN-IL-0386;Iluminação;-1,088;0;0;0;0
+1387;CN-IL-0387;Iluminação;-1,146;0;0;0;0
+1388;CN-IL-0388;Iluminação;-1,055;0;0;0;0
+1389;CN-IL-0389;Iluminação;-1,276;0;0;0;0
+1390;CN-IL-0390;Iluminação;-1,137;0;1;0;0
+1391;CN-IL-0391;Iluminação;-1,014;0;0;0;1
+1392;CN-IL-0392;Iluminação;-1,386;0;0;0;0
+1393;CN-IL-0393;Iluminação;-1,114;0;0;0;0
+1394;CN-IL-0394;Iluminação;-0,971;0;0;0;0
+1395;CN-IL-0395;Iluminação;-0,916;0;0;0;0
+1396;CN-IL-0396;Iluminação;-1,14;0;0;0;1
+1397;CN-IL-0397;Iluminação;-1,183;0;0;0;0
+1398;CN-IL-0398;Iluminação;-1,025;0;0;0;0
+1399;CN-IL-0399;Iluminação;-1,036;1;0;0;0
+1400;CN-IL-0400;Iluminação;-1,011;0;0;0;1
+1401;CN-IL-0401;Iluminação;-1,003;0;0;0;0
+1402;CN-IL-0402;Iluminação;-1,146;0;0;0;0
+1403;CN-IL-0403;Iluminação;-1,062;0;0;0;0
+1404;CN-IL-0404;Iluminação;-1,111;0;0;0;0
+1405;CN-IL-0405;Iluminação;-1,043;0;0;0;0
+1406;CN-IL-0406;Iluminação;-1,089;0;0;1;0
+1407;CN-IL-0407;Iluminação;-1,142;0;0;0;1
+1408;CN-IL-0408;Iluminação;-1,016;0;0;0;0
+1409;CN-IL-0409;Iluminação;-0,916;0;0;1;0
+1410;CN-IL-0410;Iluminação;-1,2;0;0;0;0
+1411;CN-IL-0411;Iluminação;-1,117;0;0;0;0
+1412;CN-IL-0412;Iluminação;-1,162;0;0;0;0
+1413;CN-IL-0413;Iluminação;-1,182;0;0;0;0
+1414;CN-IL-0414;Iluminação;-1,037;0;0;0;0
+1415;CN-IL-0415;Iluminação;-1,094;0;1;0;0
+1416;CN-IL-0416;Iluminação;-1,324;0;0;0;1
+1417;CN-IL-0417;Iluminação;-1,025;0;0;0;0
+1418;CN-IL-0418;Iluminação;-1,133;0;0;0;0
+1419;CN-IL-0419;Iluminação;-1,002;1;0;0;0
+1420;CN-IL-0420;Iluminação;-1,154;0;0;0;0
+1421;CN-IL-0421;Iluminação;-1,148;0;0;1;0
+1422;CN-IL-0422;Iluminação;-0,917;0;0;0;0
+1423;CN-IL-0423;Iluminação;-1,168;0;1;0;0
+1424;CN-IL-0424;Iluminação;-1,013;0;0;0;0
+1425;CN-IL-0425;Iluminação;-1,14;0;0;0;0
+1426;CN-IL-0426;Iluminação;-1,077;0;1;0;0
+1427;CN-IL-0427;Iluminação;-1,129;0;0;0;0
+1428;CN-IL-0428;Iluminação;-0,905;0;0;0;0
+1429;CN-IL-0429;Iluminação;-0,959;0;1;0;0
+1430;CN-IL-0430;Iluminação;-1,158;0;0;0;0
+1431;CN-IL-0431;Iluminação;-1,161;0;0;1;0
+1432;CN-IL-0432;Iluminação;-1,145;0;0;0;0
+1433;CN-IL-0433;Iluminação;-1,106;0;0;1;0
+1434;CN-IL-0434;Iluminação;-1,133;0;0;0;0
+1435;CN-IL-0435;Iluminação;-1,297;0;1;0;0
+1436;CN-IL-0436;Iluminação;-1,088;0;0;0;0
+1437;CN-IL-0437;Iluminação;-1,153;0;0;0;0
+1438;CN-IL-0438;Iluminação;-1,099;0;0;0;0
+1439;CN-IL-0439;Iluminação;-1,223;0;0;0;0
+1440;CN-IL-0440;Iluminação;-1,107;0;0;0;0
+1441;CN-IL-0441;Iluminação;-1,051;0;0;0;0
+1442;CN-IL-0442;Iluminação;-1,108;0;0;0;0
+1443;CN-IL-0443;Iluminação;-0,982;0;0;0;0
+1444;CN-IL-0444;Iluminação;-1,056;0;0;1;0
+1445;CN-IL-0445;Iluminação;-0,973;0;0;0;0
+1446;CN-IL-0446;Iluminação;-1,211;0;0;0;0
+1447;CN-IL-0447;Iluminação;-1,085;0;0;0;0
+1448;CN-IL-0448;Iluminação;-1,213;0;0;0;0
+1449;CN-IL-0449;Iluminação;-1,022;0;1;0;0
+1450;CN-IL-0450;Iluminação;-1,181;0;0;0;0
+1451;CN-JC-0451;Jardim e Churrasco;-1,467;1;0;0;0
+1452;CN-JC-0452;Jardim e Churrasco;-1,345;1;0;0;0
+1453;CN-JC-0453;Jardim e Churrasco;-1,333;1;0;0;0
+1454;CN-JC-0454;Jardim e Churrasco;-1,293;0;0;0;0
+1455;CN-JC-0455;Jardim e Churrasco;-1,44;1;0;0;0
+1456;CN-JC-0456;Jardim e Churrasco;-1,491;0;0;0;0
+1457;CN-JC-0457;Jardim e Churrasco;-1,546;0;0;0;0
+1458;CN-JC-0458;Jardim e Churrasco;-1,366;0;0;0;0
+1459;CN-JC-0459;Jardim e Churrasco;-1,302;0;0;0;0
+1460;CN-JC-0460;Jardim e Churrasco;-1,362;0;1;0;0
+1461;CN-JC-0461;Jardim e Churrasco;-1,498;0;1;0;0
+1462;CN-JC-0462;Jardim e Churrasco;-1,518;0;1;0;0
+1463;CN-JC-0463;Jardim e Churrasco;-1,457;0;0;0;0
+1464;CN-JC-0464;Jardim e Churrasco;-1,368;1;0;0;0
+1465;CN-JC-0465;Jardim e Churrasco;-1,298;0;0;0;0
+1466;CN-JC-0466;Jardim e Churrasco;-1,391;0;0;0;0
+1467;CN-JC-0467;Jardim e Churrasco;-1,338;0;0;0;0
+1468;CN-JC-0468;Jardim e Churrasco;-1,345;0;0;0;0
+1469;CN-JC-0469;Jardim e Churrasco;-1,374;0;0;0;0
+1470;CN-JC-0470;Jardim e Churrasco;-1,381;0;0;0;0
+1471;CN-JC-0471;Jardim e Churrasco;-1,465;0;0;1;0
+1472;CN-JC-0472;Jardim e Churrasco;-1,239;0;0;0;1
+1473;CN-JC-0473;Jardim e Churrasco;-1,292;0;0;0;0
+1474;CN-JC-0474;Jardim e Churrasco;-1,611;1;0;0;0
+1475;CN-JC-0475;Jardim e Churrasco;-1,474;0;0;0;0
+1476;CN-JC-0476;Jardim e Churrasco;-1,372;0;0;0;1
+1477;CN-JC-0477;Jardim e Churrasco;-1,444;0;0;0;0
+1478;CN-JC-0478;Jardim e Churrasco;-1,348;0;0;0;0
+1479;CN-JC-0479;Jardim e Churrasco;-1,417;0;1;0;0
+1480;CN-JC-0480;Jardim e Churrasco;-1,323;0;1;0;0
+1481;CN-JC-0481;Jardim e Churrasco;-1,341;0;0;0;0
+1482;CN-JC-0482;Jardim e Churrasco;-1,44;0;0;0;0
+1483;CN-JC-0483;Jardim e Churrasco;-1,435;0;0;0;0
+1484;CN-JC-0484;Jardim e Churrasco;-1,382;0;0;0;0
+1485;CN-JC-0485;Jardim e Churrasco;-1,435;0;0;0;1
+1486;CN-JC-0486;Jardim e Churrasco;-1,406;0;0;0;1
+1487;CN-JC-0487;Jardim e Churrasco;-1,428;0;0;0;0
+1488;CN-JC-0488;Jardim e Churrasco;-1,401;0;0;0;1
+1489;CN-JC-0489;Jardim e Churrasco;-1,368;0;0;1;0
+1490;CN-JC-0490;Jardim e Churrasco;-1,555;0;0;0;0
+1491;CN-JC-0491;Jardim e Churrasco;-1,34;1;0;0;0
+1492;CN-JC-0492;Jardim e Churrasco;-1,471;0;0;0;0
+1493;CN-JC-0493;Jardim e Churrasco;-1,404;0;0;0;0
+1494;CN-JC-0494;Jardim e Churrasco;-1,388;0;0;0;0
+1495;CN-JC-0495;Jardim e Churrasco;-1,498;0;0;1;0
+1496;CN-JC-0496;Jardim e Churrasco;-1,561;0;0;0;0
+1497;CN-JC-0497;Jardim e Churrasco;-1,39;0;0;0;0
+1498;CN-JC-0498;Jardim e Churrasco;-1,289;0;0;0;1
+1499;CN-JC-0499;Jardim e Churrasco;-1,33;0;0;1;0
+1500;CN-JC-0500;Jardim e Churrasco;-1,423;0;0;0;0
+1501;CN-JC-0501;Jardim e Churrasco;-1,194;0;0;0;0
+1502;CN-JC-0502;Jardim e Churrasco;-1,29;0;0;0;0
+1503;CN-JC-0503;Jardim e Churrasco;-1,398;0;0;0;0
+1504;CN-JC-0504;Jardim e Churrasco;-1,327;0;0;0;0
+1505;CN-JC-0505;Jardim e Churrasco;-1,376;1;0;0;0
+1506;CN-JC-0506;Jardim e Churrasco;-1,424;0;0;0;0
+1507;CN-JC-0507;Jardim e Churrasco;-1,355;0;0;0;0
+1508;CN-JC-0508;Jardim e Churrasco;-1,364;0;0;0;1
+1509;CN-JC-0509;Jardim e Churrasco;-1,396;0;0;0;0
+1510;CN-JC-0510;Jardim e Churrasco;-1,554;0;0;0;0
+1511;CN-JC-0511;Jardim e Churrasco;-1,534;1;0;0;0
+1512;CN-JC-0512;Jardim e Churrasco;-1,415;1;0;0;0
+1513;CN-JC-0513;Jardim e Churrasco;-1,343;0;0;0;0
+1514;CN-JC-0514;Jardim e Churrasco;-1,421;0;0;0;0
+1515;CN-JC-0515;Jardim e Churrasco;-1,417;0;0;0;0
+1516;CN-JC-0516;Jardim e Churrasco;-1,327;1;0;0;0
+1517;CN-JC-0517;Jardim e Churrasco;-1,366;1;0;0;0
+1518;CN-JC-0518;Jardim e Churrasco;-1,406;0;0;0;0
+1519;CN-JC-0519;Jardim e Churrasco;-1,405;0;0;0;0
+1520;CN-JC-0520;Jardim e Churrasco;-1,457;0;0;0;0
+1521;CN-JC-0521;Jardim e Churrasco;-1,393;0;0;0;0
+1522;CN-JC-0522;Jardim e Churrasco;-1,477;0;0;0;1
+1523;CN-JC-0523;Jardim e Churrasco;-1,281;0;0;0;1
+1524;CN-JC-0524;Jardim e Churrasco;-1,295;1;0;0;0
+1525;CN-JC-0525;Jardim e Churrasco;-1,327;0;0;0;0
+1526;CN-DC-0526;Decoração;-1,566;0;0;0;0
+1527;CN-DC-0527;Decoração;-1,727;1;0;0;0
+1528;CN-DC-0528;Decoração;-1,674;0;0;0;0
+1529;CN-DC-0529;Decoração;-1,791;0;0;0;0
+1530;CN-DC-0530;Decoração;-1,858;0;0;0;0
+1531;CN-DC-0531;Decoração;-1,643;0;0;0;0
+1532;CN-DC-0532;Decoração;-1,692;0;1;0;0
+1533;CN-DC-0533;Decoração;-1,821;0;0;0;0
+1534;CN-DC-0534;Decoração;-1,832;0;0;0;0
+1535;CN-DC-0535;Decoração;-1,705;0;0;0;0
+1536;CN-DC-0536;Decoração;-1,64;0;0;0;0
+1537;CN-DC-0537;Decoração;-1,778;0;0;0;0
+1538;CN-DC-0538;Decoração;-1,63;0;1;0;0
+1539;CN-DC-0539;Decoração;-1,672;0;0;0;0
+1540;CN-DC-0540;Decoração;-1,745;0;0;0;0
+1541;CN-DC-0541;Decoração;-1,871;0;0;0;0
+1542;CN-DC-0542;Decoração;-1,57;0;1;0;0
+1543;CN-DC-0543;Decoração;-1,72;0;0;0;0
+1544;CN-DC-0544;Decoração;-1,641;0;0;0;0
+1545;CN-DC-0545;Decoração;-1,744;0;0;0;0
+1546;CN-DC-0546;Decoração;-1,654;0;0;0;0
+1547;CN-DC-0547;Decoração;-1,518;0;0;0;1
+1548;CN-DC-0548;Decoração;-1,545;0;0;0;1
+1549;CN-DC-0549;Decoração;-1,616;0;0;0;0
+1550;CN-DC-0550;Decoração;-1,963;0;0;0;0
+1551;CN-DC-0551;Decoração;-1,753;0;0;0;0
+1552;CN-DC-0552;Decoração;-1,544;0;0;0;0
+1553;CN-DC-0553;Decoração;-1,726;0;0;0;0
+1554;CN-DC-0554;Decoração;-1,718;0;0;0;0
+1555;CN-DC-0555;Decoração;-1,717;0;1;0;0
+1556;CN-DC-0556;Decoração;-1,709;0;0;1;0
+1557;CN-DC-0557;Decoração;-1,735;1;0;0;0
+1558;CN-DC-0558;Decoração;-1,821;0;0;0;0
+1559;CN-DC-0559;Decoração;-1,534;0;0;0;0
+1560;CN-DC-0560;Decoração;-1,828;0;0;0;0
+1561;CN-DC-0561;Decoração;-1,559;0;0;0;0
+1562;CN-DC-0562;Decoração;-1,726;1;0;0;0
+1563;CN-DC-0563;Decoração;-1,86;0;0;0;0
+1564;CN-DC-0564;Decoração;-1,852;0;0;0;0
+1565;CN-DC-0565;Decoração;-1,85;0;0;0;0
+1566;CN-DC-0566;Decoração;-1,732;0;0;0;0
+1567;CN-DC-0567;Decoração;-1,633;0;0;0;0
+1568;CN-DC-0568;Decoração;-1,806;0;1;0;0
+1569;CN-DC-0569;Decoração;-1,653;0;0;0;0
+1570;CN-DC-0570;Decoração;-1,576;0;0;0;0
+1571;CN-DC-0571;Decoração;-1,462;0;0;0;0
+1572;CN-DC-0572;Decoração;-1,602;0;0;0;0
+1573;CN-DC-0573;Decoração;-1,724;0;0;0;0
+1574;CN-DC-0574;Decoração;-1,678;0;0;0;0
+1575;CN-DC-0575;Decoração;-1,626;1;0;0;0
+1576;CN-DC-0576;Decoração;-1,762;0;0;0;0
+1577;CN-DC-0577;Decoração;-1,73;0;0;0;0
+1578;CN-DC-0578;Decoração;-1,825;0;0;0;0
+1579;CN-DC-0579;Decoração;-1,732;0;0;0;0
+1580;CN-DC-0580;Decoração;-1,528;0;0;0;0
+1581;CN-DC-0581;Decoração;-1,68;0;0;0;0
+1582;CN-DC-0582;Decoração;-1,637;0;0;0;0
+1583;CN-DC-0583;Decoração;-1,772;0;0;0;0
+1584;CN-DC-0584;Decoração;-1,715;0;0;0;0
+1585;CN-DC-0585;Decoração;-1,718;0;0;0;0
+1586;CN-DC-0586;Decoração;-1,662;0;0;0;0
+1587;CN-DC-0587;Decoração;-1,765;0;0;0;0
+1588;CN-DC-0588;Decoração;-1,922;1;0;0;0
+1589;CN-DC-0589;Decoração;-1,961;0;0;0;0
+1590;CN-DC-0590;Decoração;-1,737;0;0;0;0
+1591;CN-DC-0591;Decoração;-1,472;0;0;0;0
+1592;CN-DC-0592;Decoração;-1,618;0;0;0;0
+1593;CN-DC-0593;Decoração;-1,735;1;0;0;0
+1594;CN-DC-0594;Decoração;-1,644;0;0;0;0
+1595;CN-DC-0595;Decoração;-1,771;0;1;0;0
+1596;CN-DC-0596;Decoração;-1,709;0;1;0;0
+1597;CN-DC-0597;Decoração;-1,665;0;0;0;0
+1598;CN-DC-0598;Decoração;-1,669;0;0;0;0
+1599;CN-DC-0599;Decoração;-1,884;1;0;0;0
+1600;CN-DC-0600;Decoração;-1,662;0;0;0;0
